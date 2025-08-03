@@ -1,5 +1,3 @@
-import { FaPencilAlt, FaLightbulb, FaEdit, FaDownload } from "react-icons/fa"
-import { FaRocket, FaUserAlt, FaCreativeCommons, FaPalette } from "react-icons/fa"
 
 HERO_SECTION_DATA : {
   textToImageHeroSection: {
@@ -106,25 +104,25 @@ textToImageWhyChooseUs: {
       name: "Fast & Easy",
       description:
         "Simply type your text prompt, and let our AI generate a unique, high quality image in various styles.",
-      icon: FaRocket,
+      "icon": "",
     },
     {
       name: "No Technical Skills Required",
       description:
         "You don’t need to be a designer. Aspire AI is beginner friendly—just type your idea, and the tool does the rest.",
-      icon: FaUserAlt,
+      "icon": "",
     },
     {
       name: "Commercial Rights Included",
       description:
         "Use your creations for personal projects, marketing, social media, or even commercial use without restriction.",
-      icon: FaCreativeCommons,
+      "icon": "",
     },
     {
       name: "Unlimited Creativity",
       description:
         "Whether you need surreal, realistic, pixel, or anime styles, our tool supports a variety of artistic styles to suit your needs.",
-      icon: FaPalette,
+      "icon": "",
     },
   ],
 },
@@ -140,13 +138,13 @@ aiImageGeneratorWhyChooseUs: {
       name: "Fast & Easy",
       description:
         "Simply type your text prompt, and let our AI generate a unique, high quality image in various styles.",
-      icon: FaRocket,
+      "icon": "FaRocket",
     },
     {
       name: "No Technical Skills Required",
       description:
         "You don’t need to be a designer. Aspire AI is beginner friendly—just type your idea, and the tool does the rest.",
-      icon: FaUserAlt,
+      "icon": "FaUserAlt",,
     },
     {
       name: "Commercial Rights Included",
@@ -158,7 +156,7 @@ aiImageGeneratorWhyChooseUs: {
       name: "Unlimited Creativity",
       description:
         "Whether you need surreal, realistic, pixel, or anime styles, our tool supports a variety of artistic styles to suit your needs.",
-      icon: FaPalette,
+      "icon": "FaPalette",,
     },
   ],
 }
@@ -253,25 +251,25 @@ textToImageHowItWorks: {
       name: "Text to Art.",
       description:
         "Write a prompt, and Aspire AI instantly crafts a stunning visual from your description. The more detailed your prompt, the more refined your image will be.",
-      icon: FaPencilAlt,
+      "icon": "FaPencilAlt",
     },
     {
       name: "Get Inspired.",
       description:
         "Stuck for ideas? Use Aspire AI powered prompt suggestions to spark your creativity and explore new artistic possibilities.",
-      icon: FaLightbulb,
+      "icon": "FaLightbulb",
     },
     {
       name: "Refine Your Image.",
       description:
         "Need adjustments? Our tools allow you to tweak your creation with HD resolution, or remix it to perfection.",
-      icon: FaEdit,
+      "icon": "FaEdit",
     },
     {
       name: "Download & Share.",
       description:
         "Once you are satisfied with your image, download it or share it directly with your audience.",
-      icon: FaDownload,
+      "icon": "FaDownload",
     },
   ],
 },
@@ -284,25 +282,25 @@ aiImageGeneratorHowItWorks: {
       name: "Text to Art.",
       description:
         "Write a prompt, and Aspire AI instantly crafts a stunning visual from your description. The more detailed your prompt, the more refined your image will be.",
-      icon: FaPencilAlt,
+      "icon": "FaPencilAlt",
     },
     {
       name: "Get Inspired.",
       description:
         "Stuck for ideas? Use Aspire AI powered prompt suggestions to spark your creativity and explore new artistic possibilities.",
-      icon: FaLightbulb,
+      "icon": "FaLightbulb",
     },
     {
       name: "Refine Your Image.",
       description:
         "Need adjustments? Our tools allow you to tweak your creation with HD resolution, or remix it to perfection.",
-      icon: FaEdit,
+      "icon": "FaEdit",
     },
     {
       name: "Download & Share.",
       description:
         "Once you are satisfied with your image, download it or share it directly with your audience.",
-      icon: FaDownload,
+      "icon": "FaDownload",
     },
   ],
 },
@@ -315,25 +313,25 @@ ImagetoVideoHowItWorks: {
       name: "Upload Your Image:",
       description:
         "Start by uploading your image or photo. Aspire AI’s Image to Video Generator will use its advanced algorithms to convert your still image into a dynamic video.",
-      icon: FaPencilAlt,
+      "icon": "FaPencilAlt",
     },
     {
       name: "Customize Your Video:",
       description:
         "Choose the animation effects, video transitions to match your style. You can even change the video to HD resolution with different frames sizes.",
-      icon: FaLightbulb,
+      "icon": "FaLightbulb",
     },
     {
       name: "Preview & Adjust:",
       description:
         "See a preview of your video and make any necessary tweaks to get it just right.",
-      icon: FaEdit,
+      "icon": "FaEdit",
     },
     {
       name: "Download & Share:",
       description:
         "Once you're happy with the result, download your AI-generated video and share it on your platform, or use it for marketing, social media, or personal projects.",
-      icon: FaDownload,
+      "icon": "FaDownload",
     },
   ],
 },
@@ -346,31 +344,31 @@ AIVideoEffectsHowItWorks: {
       name: "Transform Photos:",
       description:
         "Upload an image or describe a scene to create dynamic animations.",
-      icon: FaPencilAlt,
+      "icon": "FaPencilAlt",
     },
     {
       name: "Add Playful Effects:",
       description:
         "Use squish it AI to craft fun, animated visuals and much more trending effects.",
-      icon: FaLightbulb,
+      "icon": "FaLightbulb",
     },
     {
       name: "Revive Memories:",
       description:
         "Turn static images into moving stories with animate old photo.",
-      icon: FaEdit,
+      "icon": "FaEdit",
     },
     {
       name: "Customize & Enhance:",
       description:
         "Tweak your AI video effects with tools for styles, transitions, or HD resolutions.",
-      icon: FaDownload,
+      "icon": "FaDownload",
     },
        {
       name: "Download & Share:",
       description:
         "Tweak your AI video effects with tools for styles, transitions, or HD resolutions.",
-      icon: FaDownload,
+      "icon": "FaDownload",
     },
   ],
 }

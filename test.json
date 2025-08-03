@@ -6,6 +6,7 @@
       "whyChooseUs": "textToImageWhyChooseUs",
       "featuresGallery": "textToImageFeaturesGallery",
       "howItWorks": "textToImageHowItWorks",
+      "otherFeatures": "textToImageOtherFeaturesData",
       "faq": "textToImageFaqs",
       "cta": "textToImage"
     }
@@ -17,6 +18,7 @@
       "whyChooseUs": "aiImageGeneratorWhyChooseUs",
       "featuresGallery": "aiImageGeneratorFeaturesGallery",
       "howItWorks": "aiImageGeneratorHowItWorks",
+      "otherFeatures": "textToImageOtherFeaturesData",
       "faq": "textToImageFaqs",
       "cta": "textToImage"
     }

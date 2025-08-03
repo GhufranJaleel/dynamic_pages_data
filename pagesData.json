@@ -305,7 +305,7 @@
     }
   },
   "OTHER_FEATURES_DATA": {
-    "textToImage": [
+    "textToImageOtherFeaturesData": [
       {
         "title": "For Logo and Illustrators",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
@@ -422,7 +422,7 @@
         "imageLeft": false
       }
     ],
-    "aiImageGenerator": [
+    "aiImageGeneratorOtherFeaturesData": [
       {
         "title": "For Marketing and Advertising",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",

@@ -1,1 +1,13 @@
-ss
+[
+  {
+    "slug": "text-to-image",
+    "components": {
+      "hero": "textToImageHeroSection",
+      "whyChooseUs": "textToImageWhyChooseUs",
+      "featuresGallery": "textToImageFeaturesGallery",
+      "howItWorks": "textToImageHowItWorks",
+      "faq": "textToImageFaqs",
+      "cta": "textToImage"
+    }
+  }
+]

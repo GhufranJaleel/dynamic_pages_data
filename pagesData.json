@@ -198,22 +198,18 @@
         {
           "name": "Text to Art.",
           "description": "Write a prompt, and Aspire AI instantly crafts a stunning visual from your description. The more detailed your prompt, the more refined your image will be.",
-          "icon": "FaPencilAlt"
         },
         {
           "name": "Get Inspired.",
           "description": "Stuck for ideas? Use Aspire AI powered prompt suggestions to spark your creativity and explore new artistic possibilities.",
-          "icon": "FaLightbulb"
         },
         {
           "name": "Refine Your Image.",
           "description": "Need adjustments? Our tools allow you to tweak your creation with HD resolution, or remix it to perfection.",
-          "icon": "FaEdit"
         },
         {
           "name": "Download & Share.",
           "description": "Once you are satisfied with your image, download it or share it directly with your audience.",
-          "icon": "FaDownload"
         }
       ]
     },
@@ -225,22 +221,18 @@
         {
           "name": "Text to Art.",
           "description": "Write a prompt, and Aspire AI instantly crafts a stunning visual from your description. The more detailed your prompt, the more refined your image will be.",
-          "icon": "FaPencilAlt"
         },
         {
           "name": "Get Inspired.",
           "description": "Stuck for ideas? Use Aspire AI powered prompt suggestions to spark your creativity and explore new artistic possibilities.",
-          "icon": "FaLightbulb"
         },
         {
           "name": "Refine Your Image.",
           "description": "Need adjustments? Our tools allow you to tweak your creation with HD resolution, or remix it to perfection.",
-          "icon": "FaEdit"
         },
         {
           "name": "Download & Share.",
           "description": "Once you are satisfied with your image, download it or share it directly with your audience.",
-          "icon": "FaDownload"
         }
       ]
     },
@@ -252,22 +244,18 @@
         {
           "name": "Upload Your Image:",
           "description": "Start by uploading your image or photo. Aspire AI’s Image to Video Generator will use its advanced algorithms to convert your still image into a dynamic video.",
-          "icon": "FaPencilAlt"
         },
         {
           "name": "Customize Your Video:",
           "description": "Choose the animation effects, video transitions to match your style. You can even change the video to HD resolution with different frames sizes.",
-          "icon": "FaLightbulb"
         },
         {
           "name": "Preview & Adjust:",
           "description": "See a preview of your video and make any necessary tweaks to get it just right.",
-          "icon": "FaEdit"
         },
         {
           "name": "Download & Share:",
           "description": "Once you're happy with the result, download your AI-generated video and share it on your platform, or use it for marketing, social media, or personal projects.",
-          "icon": "FaDownload"
         }
       ]
     },
@@ -279,27 +267,22 @@
         {
           "name": "Transform Photos:",
           "description": "Upload an image or describe a scene to create dynamic animations.",
-          "icon": "FaPencilAlt"
         },
         {
           "name": "Add Playful Effects:",
           "description": "Use squish it AI to craft fun, animated visuals and much more trending effects.",
-          "icon": "FaLightbulb"
         },
         {
           "name": "Revive Memories:",
           "description": "Turn static images into moving stories with animate old photo.",
-          "icon": "FaEdit"
         },
         {
           "name": "Customize & Enhance:",
           "description": "Tweak your AI video effects with tools for styles, transitions, or HD resolutions.",
-          "icon": "FaDownload"
         },
         {
           "name": "Download & Share:",
           "description": "Tweak your AI video effects with tools for styles, transitions, or HD resolutions.",
-          "icon": "FaDownload"
         }
       ]
     }

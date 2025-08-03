@@ -1,6 +1,4 @@
 
-import { FaPencilAlt, FaLightbulb, FaEdit, FaDownload } from "react-icons/fa"
-import { FaRocket, FaUserAlt, FaCreativeCommons, FaPalette } from "react-icons/fa"
 {
   
 export const HERO_SECTION_DATA = {

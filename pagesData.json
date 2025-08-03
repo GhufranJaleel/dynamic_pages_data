@@ -193,7 +193,7 @@
     "textToImageHowItWorks": {
       "title": "How Aspire AI Image Generator Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/videos/Text_to_Art.mp4",
       "features": [
         {
           "name": "Text to Art.",
@@ -216,7 +216,7 @@
     "aiImageGeneratorHowItWorks": {
       "title": "How Aspire AI Image Generator Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/videos/Text_to_Art.mp4",
       "features": [
         {
           "name": "Text to Art.",
@@ -239,7 +239,7 @@
     "ImagetoVideoHowItWorks": {
       "title": "How Aspire AI Image to Video Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/videos/Text_to_Art.mp4",
       "features": [
         {
           "name": "Upload Your Image:",
@@ -262,7 +262,7 @@
     "AIVideoEffectsHowItWorks": {
       "title": "How Aspire AI Video Effects Works",
       "subtitle": "Our AI video effects process is simple, fast, and powerful.",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/videos/Text_to_Art.mp4",
       "features": [
         {
           "name": "Transform Photos:",

@@ -9,5 +9,16 @@
       "faq": "textToImageFaqs",
       "cta": "textToImage"
     }
+  },
+   {
+    "slug": "text-to-images",
+    "components": {
+      "hero": "textToImageHeroSection",
+      "whyChooseUs": "textToImageWhyChooseUs",
+      "featuresGallery": "textToImageFeaturesGallery",
+      "howItWorks": "textToImageHowItWorks",
+      "faq": "textToImageFaqs",
+      "cta": "textToImage"
+    }
   }
 ]

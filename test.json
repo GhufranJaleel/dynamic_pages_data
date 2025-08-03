@@ -13,7 +13,7 @@
    {
     "slug": "ai-image-generator",
     "components": {
-      "hero": "textToImageHeroSection",
+      "hero": "aiImageGeneratorHeroSection",
       "whyChooseUs": "aiImageGeneratorWhyChooseUs",
       "featuresGallery": "aiImageGeneratorFeaturesGallery",
       "howItWorks": "aiImageGeneratorHowItWorks",

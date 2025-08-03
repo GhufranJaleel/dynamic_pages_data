@@ -11,7 +11,7 @@
     }
   },
    {
-    "slug": "text-to-images",
+    "slug": "text-to-video",
     "components": {
       "hero": "textToImageHeroSection",
       "whyChooseUs": "textToImageWhyChooseUs",

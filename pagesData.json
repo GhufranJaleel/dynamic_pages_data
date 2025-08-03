@@ -1,7 +1,7 @@
 import { FaPencilAlt, FaLightbulb, FaEdit, FaDownload } from "react-icons/fa"
 import { FaRocket, FaUserAlt, FaCreativeCommons, FaPalette } from "react-icons/fa"
 
-HERO_SECTION_DATA = {
+HERO_SECTION_DATA : {
   textToImageHeroSection: {
     preHeading: 'Create Stunning Visuals with',
     title: 'Aspire AI’s Text to Image Tool',
@@ -93,7 +93,7 @@ HERO_SECTION_DATA = {
   // },
 }
 
-WHY_CHOOSE_US_DATA = {
+WHY_CHOOSE_US_DATA : {
 textToImageWhyChooseUs: {
   titleParts: {
     before: "Why Choose ",
@@ -164,7 +164,7 @@ aiImageGeneratorWhyChooseUs: {
 }
 }
 
-FEATURES_GALLERY_DATA = {
+FEATURES_GALLERY_DATA : {
 textToImageFeaturesGallery: {
   heading: "Why Aspire AI Image Generator is Perfect for You",
   subheading:
@@ -243,7 +243,7 @@ textToImageFeaturesGallery: {
 }
 }
 
-HOW_IT_WORKS_DATA = {
+HOW_IT_WORKS_DATA : {
 textToImageHowItWorks: {
   title: "How Aspire AI Image Generator Works",
   subtitle: "Create AI art effortlessly in just a few steps.",
@@ -376,7 +376,7 @@ AIVideoEffectsHowItWorks: {
 }
 }
 
-otherFeaturesData = {
+otherFeaturesData : {
 textToImage: [
   {
   
@@ -615,7 +615,7 @@ textToImage: [
 ]
 };
 
-FAQ_DATA = {
+FAQ_DATA : {
 landingPageFaqs:{
   title: 'Questions',
   subtitle: 'Frequently Asked',
@@ -738,7 +738,7 @@ aiImageGeneratorFaqs: {
 }
 }
 
-CTA_DATA = {
+CTA_DATA : {
 landingPageSocial: {
   heading: 'Become part of a',
   subHeading: 'Creative Community!',

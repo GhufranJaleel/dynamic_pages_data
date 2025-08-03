@@ -1,1 +1,779 @@
 
+import { FaPencilAlt, FaLightbulb, FaEdit, FaDownload } from "react-icons/fa"
+import { FaRocket, FaUserAlt, FaCreativeCommons, FaPalette } from "react-icons/fa"
+
+export const HERO_SECTION_DATA = {
+  textToImageHeroSection: {
+    preHeading: 'Create Stunning Visuals with',
+    title: 'Aspire AI’s Text to Image Tool',
+    description: `Transform your ideas into beautiful, high quality images in seconds with Aspire AI's Text to Image tool. Whether you’re working on branding, 
+    personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.`,
+    button: {
+      text: 'Start Creating',
+      link: '/dashboard/text-to-image/create',
+    },
+    image: '/img/features/generatePages/HeroSection.webp',
+  }
+  ,
+   aiImageGeneratorHeroSection: {
+    preHeading: 'Unleash Your Creative Potential with',
+    title: 'Aspire AI Image Generator',
+    description: `Transform your ideas into high-quality, AI generated images that bring your vision to life. With Aspire AI Image Generator, you can create stunning visuals from just a few words or you can get ideas or optimize your prompt further. Whether you're designing for marketing, social media, or personal projects, Aspire AI allows you to produce eye catching images effortlessly, without the need for professional design skills.`,
+    button: {
+      text: 'Start Creating',
+      link: '/dashboard/text-to-image/create',
+    },
+    image: '/img/features/generatePages/HeroSection.webp',
+  },
+     TexttoVideoHeroSection: {
+    preHeading: 'Create Stunning Videos with',
+    title: 'Aspire AI`s Video Generator',
+    description: `Unleash your creativity and transform your text and images into engaging AI generated videos in just minutes. Whether you need text to video AI or an easy way to animate your visuals, Aspire AI is the ultimate video AI generator for content creators, marketers, and storytellers. With our AI video maker, you can effortlessly create high quality videos without the need for complex video editing skills.`,
+    button: {
+      text: 'Generate Video Free',
+      link: '/dashboard/text-to-image/create',
+    },
+    image: '/img/features/generatePages/HeroSection.webp',
+  },
+  
+       ImagetoVideoHeroSection: {
+    preHeading: 'Turn Your Images into Stunning Videos with',
+    title: 'Aspire AI’s Image to Video Tool',
+    description: `Unlock a new dimension for your creative content with Aspire AI’s Image to Video Generator. Whether you want to transform your photos into dynamic videos or add artificial intelligence video effects to your images, our AI image to video generator delivers professional quality results in seconds. You no longer need complex software or editing skills—just upload your image, and let Aspire AI work its magic to turn it into an engaging video.`,
+    button: {
+      text: 'Generate Video Free',
+      link: '/dashboard/text-to-image/create',
+    },
+    image: '/img/features/generatePages/HeroSection.webp',
+  },
+  
+           AIVideoEffectsHeroSection: {
+    preHeading: 'Aspire AI Video Effects',
+    title: 'Bring Your Moments to Life with AI Magic',
+    description: `Transform your ideas into captivating visuals with Aspire AI Video Effects! Our free AI video effects turn photos into playful AI squish effects, nostalgic animations, or dynamic videos. No editing skills needed! Do you understand the power of instant video magic? Yes, it’s effortless. No limits—create AI video effects online free for personal or commercial projects. Start now and make every moment unforgettable!`,
+    button: {
+      text: 'Start Creating for Free',
+      link: '/dashboard/text-to-image/create',
+    },
+    image: '/img/features/generatePages/HeroSection.webp',
+  },
+  
+             AIVideoGeneratorHeroSection: {
+    preHeading: 'Unlock the Future of Video Creation with',
+    title: 'Aspire AI Video Generator',
+    description: `Transform your images and text into high quality AI generated videos—instantly. Whether you want to bring photos to life with animation or turn your written content into dynamic videos, Aspire AI provides an easy, fast, and innovative way to generate engaging videos without the need for complex editing software to bring your imaginations into the cinematic form.`,
+    button: {
+      text: 'Generate Video Free',
+      link: '/dashboard/text-to-image/create',
+    },
+    image: '/img/features/generatePages/HeroSection.webp',
+  },
+
+  //              AIVideoEffectsHeroSection: {
+  //   preHeading: 'Create Stunning Visuals with',
+  //   title: 'Aspire AI’s Text to Image Tool',
+  //   description: `Transform your ideas into beautiful, high quality images in seconds with Aspire AI's Text to Image tool. Whether you’re working on branding, 
+  //   personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.`,
+  //   button: {
+  //     text: 'Start Creating',
+  //     link: '/dashboard/text-to-image/create',
+  //   },
+  //   image: '/img/features/generatePages/HeroSection.webp',
+  // },
+  
+  //              AIVideoGeneratorHeroSection: {
+  //   preHeading: 'Create Stunning Visuals with',
+  //   title: 'Aspire AI’s Text to Image Tool',
+  //   description: `Transform your ideas into beautiful, high quality images in seconds with Aspire AI's Text to Image tool. Whether you’re working on branding, 
+  //   personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.`,
+  //   button: {
+  //     text: 'Start Creating',
+  //     link: '/dashboard/text-to-image/create',
+  //   },
+  //   image: '/img/features/generatePages/HeroSection.webp',
+  // },
+}
+
+export const WHY_CHOOSE_US_DATA = {
+textToImageWhyChooseUs: {
+  titleParts: {
+    before: "Why Choose ",
+    highlight: "Aspire AI",
+    after: "?"
+  },
+  subtitle: "Generate beautiful AI art in seconds—no experience needed.",
+  features: [
+    {
+      name: "Fast & Easy",
+      description:
+        "Simply type your text prompt, and let our AI generate a unique, high quality image in various styles.",
+      icon: FaRocket,
+    },
+    {
+      name: "No Technical Skills Required",
+      description:
+        "You don’t need to be a designer. Aspire AI is beginner friendly—just type your idea, and the tool does the rest.",
+      icon: FaUserAlt,
+    },
+    {
+      name: "Commercial Rights Included",
+      description:
+        "Use your creations for personal projects, marketing, social media, or even commercial use without restriction.",
+      icon: FaCreativeCommons,
+    },
+    {
+      name: "Unlimited Creativity",
+      description:
+        "Whether you need surreal, realistic, pixel, or anime styles, our tool supports a variety of artistic styles to suit your needs.",
+      icon: FaPalette,
+    },
+  ],
+},
+aiImageGeneratorWhyChooseUs: {
+  titleParts: {
+    before: "Why Choose ",
+    highlight: "Aspire AI",
+    after: "?"
+  },
+  subtitle: "Generate beautiful AI art in seconds—no experience needed.",
+  features: [
+    {
+      name: "Fast & Easy",
+      description:
+        "Simply type your text prompt, and let our AI generate a unique, high quality image in various styles.",
+      icon: FaRocket,
+    },
+    {
+      name: "No Technical Skills Required",
+      description:
+        "You don’t need to be a designer. Aspire AI is beginner friendly—just type your idea, and the tool does the rest.",
+      icon: FaUserAlt,
+    },
+    {
+      name: "Commercial Rights Included",
+      description:
+        "Use your creations for personal projects, marketing, social media, or even commercial use without restriction.",
+      icon: FaCreativeCommons,
+    },
+    {
+      name: "Unlimited Creativity",
+      description:
+        "Whether you need surreal, realistic, pixel, or anime styles, our tool supports a variety of artistic styles to suit your needs.",
+      icon: FaPalette,
+    },
+  ],
+}
+}
+
+export const FEATURES_GALLERY_DATA = {
+textToImageFeaturesGallery: {
+  heading: "Why Aspire AI Image Generator is Perfect for You",
+  subheading:
+    "With Aspire AI, you can create AI images for various purposes, including:",
+  points: [
+    {
+      title: "Social Media Content:",
+      description:
+        "Generate eye-catching visuals for your posts, stories, and ads.",
+    },
+    {
+      title: "Personal Projects:",
+      description:
+        "Bring your hobbies, passions, and ideas to life—whether you’re designing a personal logo, drawing a comic strip, or creating unique illustrations.",
+    },
+    {
+      title: "Professional Use:",
+      description:
+        "Use the tool for branding, portfolio images, or product mockups, all generated in minutes.",
+    },
+  ],
+  bottomText:
+    "No more waiting on expensive designers or using clunky design software. Aspire AI lets you create high-quality visuals in minutes, saving you time and money.",
+  imageGroups: [
+    [
+      "/img/features/generatePages/20.webp",
+    ],
+    [
+      "/img/features/generatePages/7.webp",
+      "/img/features/generatePages/8.webp",
+    ],
+    [
+      "/img/features/generatePages/13.webp",
+      "/img/features/generatePages/21.webp",
+    ],
+   
+  ],
+},
+ aiImageGeneratorFeaturesGallery: {
+  heading: "Why Aspire AI Image Generator is Perfect for You",
+  subheading:
+    "With Aspire AI, you can create AI images for various purposes, including:",
+  points: [
+    {
+      title: "Social Media Content:",
+      description:
+        "Generate eye-catching visuals for your posts, stories, and ads.",
+    },
+    {
+      title: "Personal Projects:",
+      description:
+        "Bring your hobbies, passions, and ideas to life—whether you’re designing a personal logo, drawing a comic strip, or creating unique illustrations.",
+    },
+    {
+      title: "Professional Use:",
+      description:
+        "Use the tool for branding, portfolio images, or product mockups, all generated in minutes.",
+    },
+  ],
+  bottomText:
+    "No more waiting on expensive designers or using clunky design software. Aspire AI lets you create high-quality visuals in minutes, saving you time and money.",
+  imageGroups: [
+    [
+      "/img/features/generatePages/20.webp",
+    ],
+    [
+      "/img/features/generatePages/7.webp",
+      "/img/features/generatePages/8.webp",
+    ],
+    [
+      "/img/features/generatePages/13.webp",
+      "/img/features/generatePages/21.webp",
+    ],
+   
+  ],
+}
+}
+
+export const HOW_IT_WORKS_DATA = {
+textToImageHowItWorks: {
+  title: "How Aspire AI Image Generator Works",
+  subtitle: "Create AI art effortlessly in just a few steps.",
+  video: "https://aspireai.app/Videos/landing/getIdea.mp4",
+  features: [
+    {
+      name: "Text to Art.",
+      description:
+        "Write a prompt, and Aspire AI instantly crafts a stunning visual from your description. The more detailed your prompt, the more refined your image will be.",
+      icon: FaPencilAlt,
+    },
+    {
+      name: "Get Inspired.",
+      description:
+        "Stuck for ideas? Use Aspire AI powered prompt suggestions to spark your creativity and explore new artistic possibilities.",
+      icon: FaLightbulb,
+    },
+    {
+      name: "Refine Your Image.",
+      description:
+        "Need adjustments? Our tools allow you to tweak your creation with HD resolution, or remix it to perfection.",
+      icon: FaEdit,
+    },
+    {
+      name: "Download & Share.",
+      description:
+        "Once you are satisfied with your image, download it or share it directly with your audience.",
+      icon: FaDownload,
+    },
+  ],
+},
+aiImageGeneratorHowItWorks: {
+  title: "How Aspire AI Image Generator Works",
+  subtitle: "Create AI art effortlessly in just a few steps.",
+  video: "https://aspireai.app/Videos/landing/getIdea.mp4",
+  features: [
+    {
+      name: "Text to Art.",
+      description:
+        "Write a prompt, and Aspire AI instantly crafts a stunning visual from your description. The more detailed your prompt, the more refined your image will be.",
+      icon: FaPencilAlt,
+    },
+    {
+      name: "Get Inspired.",
+      description:
+        "Stuck for ideas? Use Aspire AI powered prompt suggestions to spark your creativity and explore new artistic possibilities.",
+      icon: FaLightbulb,
+    },
+    {
+      name: "Refine Your Image.",
+      description:
+        "Need adjustments? Our tools allow you to tweak your creation with HD resolution, or remix it to perfection.",
+      icon: FaEdit,
+    },
+    {
+      name: "Download & Share.",
+      description:
+        "Once you are satisfied with your image, download it or share it directly with your audience.",
+      icon: FaDownload,
+    },
+  ],
+},
+ImagetoVideoHowItWorks: {
+  title: "How Aspire AI Image to Video Works",
+  subtitle: "Create AI art effortlessly in just a few steps.",
+  video: "https://aspireai.app/Videos/landing/getIdea.mp4",
+  features: [
+    {
+      name: "Upload Your Image:",
+      description:
+        "Start by uploading your image or photo. Aspire AI’s Image to Video Generator will use its advanced algorithms to convert your still image into a dynamic video.",
+      icon: FaPencilAlt,
+    },
+    {
+      name: "Customize Your Video:",
+      description:
+        "Choose the animation effects, video transitions to match your style. You can even change the video to HD resolution with different frames sizes.",
+      icon: FaLightbulb,
+    },
+    {
+      name: "Preview & Adjust:",
+      description:
+        "See a preview of your video and make any necessary tweaks to get it just right.",
+      icon: FaEdit,
+    },
+    {
+      name: "Download & Share:",
+      description:
+        "Once you're happy with the result, download your AI-generated video and share it on your platform, or use it for marketing, social media, or personal projects.",
+      icon: FaDownload,
+    },
+  ],
+},
+AIVideoEffectsHowItWorks: {
+  title: "How Aspire AI Video Effects Works",
+  subtitle: "Our AI video effects process is simple, fast, and powerful.",
+  video: "https://aspireai.app/Videos/landing/getIdea.mp4",
+  features: [
+    {
+      name: "Transform Photos:",
+      description:
+        "Upload an image or describe a scene to create dynamic animations.",
+      icon: FaPencilAlt,
+    },
+    {
+      name: "Add Playful Effects:",
+      description:
+        "Use squish it AI to craft fun, animated visuals and much more trending effects.",
+      icon: FaLightbulb,
+    },
+    {
+      name: "Revive Memories:",
+      description:
+        "Turn static images into moving stories with animate old photo.",
+      icon: FaEdit,
+    },
+    {
+      name: "Customize & Enhance:",
+      description:
+        "Tweak your AI video effects with tools for styles, transitions, or HD resolutions.",
+      icon: FaDownload,
+    },
+       {
+      name: "Download & Share:",
+      description:
+        "Tweak your AI video effects with tools for styles, transitions, or HD resolutions.",
+      icon: FaDownload,
+    },
+  ],
+}
+}
+
+export const otherFeaturesData = {
+textToImage: [
+  {
+  
+    title: "For Logo and Illustrators",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+    image: ["/img/features/generatePages/ArtistsandIllustrators.webp","/img/features/generatePages/ArtistsandIllustrators1.webp"],
+    points: [
+      {
+        label: "Bring your imagination to life:",
+        text:
+          "Whether you want to generate concept art, character designs, or scenic landscapes, Aspire AI can instantly bring your ideas to life.",
+      },
+      {
+        label: "Experiment with different styles:",
+        text:
+          "Create anything from realistic renderings to surreal or abstract art using simple text descriptions.",
+      },
+    ],
+    button: {
+      text: 'Illustrate Now',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: false,
+  },
+  {
+    title: "For Hobbyists and Creators",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/HobbyistsandCreators.webp"],
+    points: [
+      {
+        label: "Create unique art pieces:",
+        text:
+          "Whether you're designing personal projects like wall art, album covers, or even comic book panels, Aspire AI can turn your words into visuals.",
+      },
+      {
+        label: "Explore new artistic expressions:",
+        text:
+          "Try generating fantasy, anime, or retro pixel art without any prior art skills or tools.",
+      },
+    ],
+    button: {
+      text: 'Create Art',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: true,
+  },
+  {
+    title: "For Entrepreneurs and Small Businesses",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/EntrepreneursandSmallBusinesses.webp","/img/features/generatePages/EntrepreneursandSmallBusinesses1.webp"],
+    points: [
+      {
+        label: "Generate product visuals:",
+        text:
+          "For online stores, logo designs, or promotional content tailored to your brand.",
+      },
+      {
+        label: "Social Media Posts:",
+        text:
+          "Quickly create engaging visuals for your content calendar, making your posts stand out with eye catching designs.",
+      },
+    ],
+    button: {
+      text: 'Create Now',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: false,
+  },
+  {
+    title: "For Writers and Storytellers",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/WritersandStorytellers.webp","/img/features/generatePages/WritersandStorytellers1.webp","/img/features/generatePages/WritersandStorytellers2.webp"],
+    points: [
+      {
+        label: "Bring your imagination to life:",
+        text:
+          "Create illustrations or book covers that match your narrative or generate visuals for scenes in your stories.",
+      },
+      {
+        label: "Character Visualization:",
+        text:
+          "Generate detailed images of your characters, settings, or key moments from your written work.",
+      },
+    ],
+    button: {
+      text: 'Bring Imagination',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: true,
+  },
+  {
+    title: "For Designers and Illustrators",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/DesignersandIllustrators.webp","/img/features/generatePages/DesignersandIllustrators1.webp"],
+    points: [
+      {
+        label: "Rapid prototyping:",
+        text:
+          "Use Aspire AI for quick mockups or early stage concept visuals when working on larger design projects.",
+      },
+      {
+        label: "Create detailed designs:",
+        text:
+          "Without needing to sketch every single idea, saving time and energy.",
+      },
+    ],
+    button: {
+      text: 'Design Now',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: false,
+  },
+],
+ aiImageGenerator: [
+  {
+  
+    title: "For Marketing and Advertising",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+    image: ["/img/features/generatePages/ArtistsandIllustrators.webp","/img/features/generatePages/ArtistsandIllustrators1.webp"],
+    points: [
+      {
+        label: "Create stunning visuals:",
+        text:
+          "or your ad campaigns without hiring a designer. Generate customized graphics for digital ads, banners, and social media posts that stand out and drive engagement.",
+      },
+      {
+        label: "Use AI generated images:",
+        text:
+          "for email newsletters, landing pages, and promotions to make your marketing material more eye-catching and impactful.",
+      },
+    ],
+    button: {
+      text: 'Design Now',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: false,
+  },
+  {
+    title: "For Social Media Content",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/HobbyistsandCreators.webp"],
+    points: [
+      {
+        label: "Social media game:",
+        text:
+          "Take your social media game to the next level by using Aspire AI Image Generator to produce beautiful posts, stories, and thumbnails for platforms like Instagram, Facebook, or TikTok.",
+      },
+      {
+        label: "Brand identity:",
+        text:
+          "Generate images that match your brand identity and use them to create a consistent and professional look across all your social channels.",
+      },
+    ],
+    button: {
+      text: 'Create Art',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: true,
+  },
+  {
+    title: "For Designers and Creatives",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/EntrepreneursandSmallBusinesses.webp","/img/features/generatePages/EntrepreneursandSmallBusinesses1.webp"],
+    points: [
+      {
+        label: "Logos & Illustrations:",
+        text:
+          "Whether you're creating logos, illustrations, or concept art, Aspire AI Image Generator provides you with endless possibilities for quickly bringing your ideas to life.",
+      },
+      {
+        label: "Inspiration:",
+        text:
+          "Use it for inspiration or as a base for more detailed designs—no more starting from a blank canvas.",
+      },
+    ],
+    button: {
+      text: 'Illustrate Now',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: false,
+  },
+  {
+    title: "For Content Creators and Bloggers",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/WritersandStorytellers.webp","/img/features/generatePages/WritersandStorytellers1.webp","/img/features/generatePages/WritersandStorytellers2.webp"],
+    points: [
+      {
+        label: "Feature images:",
+        text:
+          "Enhance your blog posts or videos with custom illustrations, backgrounds, or feature images that align with your content and help grab attention.",
+      },
+      {
+        label: "Create Visuals:",
+        text:
+          "Whether you’re writing about tech, fashion, or lifestyle, Aspire AI lets you create visuals that add value to your written content.",
+      },
+    ],
+    button: {
+      text: 'Create Featured Image',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: true,
+  },
+  {
+    title: "For Ecommerce Businesses",
+    description:
+      "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      image: ["/img/features/generatePages/DesignersandIllustrators.webp","/img/features/generatePages/DesignersandIllustrators1.webp"],
+    points: [
+      {
+        label: "Product images:",
+        text:
+          "Need product images or visuals for your online store? Aspire AI Image Generator helps you create polished product shots and banners to boost your ecommerce presence..",
+      },
+      {
+        label: "Design promotional materials:",
+        text:
+          "Design promotional materials like discounts, coupons, and event graphics with minimal effort.",
+      },
+    ],
+    button: {
+      text: 'Design Now',
+      link: '/dashboard/text-to-image/create',
+    },
+    imageLeft: false,
+  },
+]
+};
+
+export const FAQ_DATA = {
+landingPageFaqs:{
+  title: 'Questions',
+  subtitle: 'Frequently Asked',
+questions:[
+{
+  title: "What is Aspire, and how does it work?",
+  content:
+    "Aspire is a leading AI art generator available on Android and iOS, with a web version. It allows users to create stunning digital art from text prompts using advanced AI technology. Whether you're a beginner or a professional, Aspire's intuitive interface makes it easy to explore over 100 art styles, personalize your creations, and bring your ideas to life—no artistic experience required. Try Aspire today and unleash your creativity!",
+},
+{
+  title:
+    "Is Aspire a social platform? How can I connect with other creators?",
+  content:
+    "Yes, Aspire is not just an AI art generator but also a thriving social platform for artists and creators. Share your artwork, explore the Home Feed for inspiration, and discover personalized recommendations in the “For You” section. Connect with other creators by liking, commenting, and following their profiles.",
+},
+{
+  title: "Can I customize my AI art generation settings?",
+  content:
+    "Absolutely! Aspire allows you to fully customize your AI art generation experience. Choose from over 100 art styles, adjust parameters like color intensity and composition, and even fine-tune the AI's interpretation of your prompts. Whether you want to tweak the mood, style, or details of your artwork, Aspire gives you the tools to make each creation uniquely yours.",
+},
+{
+  title: "What types of art styles does Aspire offer?",
+  content:
+    "Aspire offers a diverse range of over 100 art styles to suit every creative vision. From classic styles like realism and impressionism to modern genres like cyberpunk and abstract art, there's something for everyone. Whether you're looking to create a serene landscape, a futuristic cityscape, or a whimsical fantasy scene, Aspire has the perfect style for your project.",
+},
+{
+  title: "Can I use Aspire to create personalized AI headshots?",
+  content:
+    "Yes, with Aspire's AI Headshot feature, you can easily create professional-quality portraits. Choose from a variety of model styles, upload 5-10 photos of yourself, and let Aspire's AI generate a unique, polished headshot. Perfect for social media profiles, business avatars, or personal branding, Aspire makes it simple to get a custom portrait without needing a photographer.",
+},
+{
+  title:
+    "What is a “creative prompt,” and how does Aspire help me with it?",
+  content: `A creative prompt is a detailed description that tells the AI what kind of artwork to generate. It can include elements like style, colors, subject, and mood. Aspire's "Improve Idea" feature makes this easy by automatically enhancing your basic idea into a well crafted prompt. Even if you're unsure how to phrase it, Aspire helps you create the perfect prompt for stunning, personalized results.`,
+},
+{
+  title: "Do I need any design skills to use Aspire?",
+  content:
+    "No design skills are needed! Aspire is built for everyone, whether you're a complete beginner or a seasoned artist. Its user-friendly interface and intelligent AI make it simple to create beautiful artwork with just a few taps—no prior experience required.",
+},
+{
+  title:
+    "Is AI generated art copyright free, and can I use it commercially?",
+  content:
+    "Yes, AI generated art on Aspire is generally free for both personal and commercial use. However, we recommend reviewing Aspire's terms and conditions for specific details. Aspire supports creators by allowing you to use your artwork in personal projects, social media, or even commercial ventures like merchandise or marketing materials.",
+},
+]
+},
+textToImageFaqs: {
+  title: 'Questions',
+  subtitle: 'Frequently Asked',
+  questions: [
+    {
+      title: 'What is Aspire AI’s Text to Image Tool?',
+      content:
+        'Aspire AI’s Text to Image tool uses advanced AI to transform simple text descriptions into high quality visuals. You simply type a prompt, and our AI generates a matching image. Whether you\'re looking for realistic, surreal, or animated styles, it’s all just a few words away!',
+    },
+    {
+      title: 'Is Aspire AI’s Text to Image Tool Free?',
+      content:
+        'Yes! Aspire AI offers a free version of the text to image tool that allows you to generate unlimited AI images with commercial rights included. You can use the images for personal or business purposes with no restrictions.',
+    },
+    {
+      title: 'How do I create AI generated images with Aspire AI?',
+      content:
+        'Creating AI images is simple! Just type your prompt into the tool, choose your preferred style (e.g., realistic, surreal, anime), and Aspire AI will generate an image in seconds. You can refine the image, upscale it to 4K, or adjust it as needed.',
+    },
+    {
+      title: 'Can I use the images for commercial purposes?',
+      content:
+        'Absolutely! All images created using Aspire AI come with full commercial rights, meaning you can use them for marketing, social media, websites, and more without any restrictions.',
+    },
+    {
+      title: 'What types of styles can I generate with Aspire AI?',
+      content:
+        'Aspire AI supports a wide range of styles, including realistic, surreal, pixel art, anime, and more. Whatever your vision, Aspire AI can bring it to life.',
+    },
+    {
+      title: 'How long does it take to generate an AI image?',
+      content:
+        'Most images are generated in under a minute. Complex prompts might take a bit longer, but you can adjust the speed for either better quality or faster results.',
+    },
+  ],
+},
+aiImageGeneratorFaqs: {
+  title: 'Questions',
+  subtitle: 'Frequently Asked',
+  questions: [
+    {
+      title: 'What is Aspire AI Image Generator?',
+      content:
+        'Aspire AI Image Generator uses advanced artificial intelligence to create high-quality images from simple text descriptions or existing images. It’s an easy-to-use tool for anyone needing stunning visuals quickly.',
+    },
+    {
+      title: 'Is Aspire AI Image Generator Free?',
+      content:
+        'Yes! You can use the AI Image Generator for free, with no watermarks or hidden fees. All images come with commercial rights, allowing you to use them for business or personal projects.',
+    },
+    {
+      title: 'How do I create an image with Aspire AI?',
+      content:
+        'Simply type a description or upload an image, and Aspire AI will generate a high-quality image based on your input. You can further customize it with AI tools for style adjustments and refinements.',
+    },
+    {
+      title: 'Can I use the images commercially?',
+      content:
+        'Yes! All AI-generated images are commercially licensed, so you can use them for marketing, advertising, and any other business-related purposes without restrictions.',
+    },
+    {
+      title: 'How long does it take to generate an image?',
+      content:
+        'Most AI-generated images are created in seconds. You can tweak or adjust them further, but the process is fast and efficient.',
+    },
+    {
+      title: 'Can I use the tool for designing product images?',
+      content:
+        'Absolutely! Aspire AI Image Generator is perfect for creating product images, ads, banners, and more. You can easily customize it to fit the specific needs of your business.',
+    },
+  ],
+}
+}
+
+export const CTA_DATA = {
+landingPageSocial: {
+  heading: 'Become part of a',
+  subHeading: 'Creative Community!',
+  description:
+    'Join Aspire’s vibrant world across social platforms! Discover stunning AI art trends, connect with creators, and stay updated on the latest features, tips, and events.',
+  buttonContent: 'Start Creating for Free',
+  buttonUrl: '/dashboard/text-to-image/create',
+  social:true,
+  button:false,
+  image:'/img/landing/Featured/imagine3.webp'
+},
+
+textToImage: {
+
+  heading: 'Start Creating With',
+  subHeading: 'Aspire Today!',
+  description:
+    'Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.',
+  buttonContent: 'Start Creating for Free',
+  buttonUrl: '/dashboard/text-to-image/create',
+  social:false,
+  button:true,
+  image:'/img/landing/Featured/imagine3.webp',
+},
+aiImageGenerator: {
+
+  heading: 'Start Creating With',
+  subHeading: 'Aspire Today!',
+  description:
+    'Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.',
+  buttonContent: 'Start Creating for Free',
+  buttonUrl: '/dashboard/text-to-image/create',
+  social:false,
+  button:true,
+  image:'/img/landing/Featured/imagine3.webp',
+}
+}

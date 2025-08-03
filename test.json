@@ -11,12 +11,12 @@
     }
   },
    {
-    "slug": "text-to-video",
+    "slug": "ai-image-generator",
     "components": {
-      "hero": "textToImageHeroSection",
-      "whyChooseUs": "textToImageWhyChooseUs",
-      "featuresGallery": "textToImageFeaturesGallery",
-      "howItWorks": "textToImageHowItWorks",
+      "hero": "aiImageGeneratorHeroSection",
+      "whyChooseUs": "aiImageGeneratorWhyChooseUs",
+      "featuresGallery": "aiImageGeneratorFeaturesGallery",
+      "howItWorks": "aiImageGeneratorHowItWorks",
       "faq": "textToImageFaqs",
       "cta": "textToImage"
     }

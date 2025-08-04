@@ -30,7 +30,7 @@
       },
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
-    "imagetoVideoHeroSection": {
+    "imageToVideoHeroSection": {
       "preHeading": "Turn Your Images into Stunning Videos with",
       "title": "Aspire AI’s Image to Video Tool",
       "description": "Unlock a new dimension for your creative content with Aspire AI\"s Image to Video Generator. Whether you want to transform your photos into dynamic videos or add artificial intelligence video effects to your images, our AI image to video generator delivers professional quality results in seconds. You no longer need complex software or editing skills—just upload your image, and let Aspire AI work its magic to turn it into an engaging video.",
@@ -122,7 +122,7 @@
         }
       ]
     },
-    "imagetoVideoWhyChooseUs": {
+    "imageToVideoWhyChooseUs": {
     "titleParts": {
       "before": "Why Choose Aspire AI’s Image to Video Generator?",
       "highlight": "Aspire AI",
@@ -210,15 +210,15 @@
       "bottomText": "No more waiting on expensive designers or using clunky design software. Aspire AI lets you create high-quality visuals in minutes, saving you time and money.",
       "imageGroups": [
         [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/20.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/11.webp"
         ],
         [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/7.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/8.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/12.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/13.webp"
         ],
         [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/13.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/21.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/14.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/4.webp"
         ]
       ]
     }

@@ -250,7 +250,7 @@
     "aiImageGeneratorHowItWorks": {
       "title": "How Aspire AI Image Generator Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/Video/ImproveIdea.mp4",
       "features": [
         {
           "name": "Text to Art.",
@@ -270,10 +270,10 @@
         }
       ]
     },
-    "ImagetoVideoHowItWorks": {
+    "ImageToVideoHowItWorks": {
       "title": "How Aspire AI Image to Video Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/ImagetoVideo.mp4",
       "features": [
         {
           "name": "Upload Your Image:",
@@ -444,8 +444,8 @@
         "title": "For Marketing and Advertising",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/ArtistsandIllustrators.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/ArtistsandIllustrators1.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/MarketingandAdvertising1.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/MarketingandAdvertising2.webp"
         ],
         "points": [
           {
@@ -467,7 +467,8 @@
         "title": "For Social Media Content",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HobbyistsandCreators.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/SocialMediaContent1.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/SocialMediaContent2.webp"
         ],
         "points": [
           {
@@ -489,8 +490,8 @@
         "title": "For Designers and Creatives",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses1.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/DesignersandCreatives1.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/DesignersandCreatives2.webp"
         ],
         "points": [
           {
@@ -512,9 +513,8 @@
         "title": "For Content Creators and Bloggers",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/WritersandStorytellers.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/WritersandStorytellers1.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/WritersandStorytellers2.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/ContentCreatorsandBloggers1.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/ContentCreatorsandBloggers2.webp"
         ],
         "points": [
           {
@@ -536,8 +536,8 @@
         "title": "For Ecommerce Businesses",
         "description": "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": [
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/DesignersandIllustrators.webp",
-          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/DesignersandIllustrators1.webp"
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/DesignersandIllustrators.webp",
+          "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/DesignersandIllustrators1.webp"
         ],
         "points": [
           {

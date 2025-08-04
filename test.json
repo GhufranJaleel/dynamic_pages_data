@@ -22,5 +22,17 @@
       "faq": "textToImageFaqs",
       "cta": "textToImage"
     }
-  }
+  },
+    {
+    "slug": "image-to-video",
+    "components": {
+      "hero": "imageToVideoHeroSection",
+      "whyChooseUs": "imageToVideoWhyChooseUs",
+      "featuresGallery": "imageToVideoFeaturesGallery",
+      "howItWorks": "imageToVideoHowItWorks",
+      "otherFeatures": "imageToVideoOtherFeaturesData",
+      "faq": "imageToVideoFaqs",
+      "cta": "imageToVideo"
+    }
+  },
 ]

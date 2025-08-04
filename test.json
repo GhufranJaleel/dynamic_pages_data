@@ -29,11 +29,11 @@
     "components": {
       "hero": "imageToVideoHeroSection",
       "whyChooseUs": "imageToVideoWhyChooseUs",
-      "featuresGallery": "imageToVideoFeaturesGallery",
-      "howItWorks": "imageToVideoHowItWorks",
-      "otherFeatures": "imageToVideoOtherFeaturesData",
-      "faq": "imageToVideoFaqs",
-      "cta": "imageToVideoCta"
+       "featuresGallery": "textToImageFeaturesGallery",
+      "howItWorks": "textToImageHowItWorks",
+      "otherFeatures": "textToImageOtherFeaturesData",
+      "faq": "textToImageFaqs",
+      "cta": "textToImageCta"
     }
   }
 ]

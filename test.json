@@ -28,12 +28,12 @@
     "slug": "image-to-video",
     "components": {
       "hero": "imageToVideoHeroSection",
-      "whyChooseUs": "aiImageGeneratorWhyChooseUs",
-      "featuresGallery": "aiImageGeneratorFeaturesGallery",
-      "howItWorks": "aiImageGeneratorHowItWorks",
-      "otherFeatures": "aiImageGeneratorOtherFeaturesData",
-      "faq": "textToImageFaqs",
-      "cta": "textToImageCta"
+      "whyChooseUs": "imageToVideoWhyChooseUs",
+      "featuresGallery": "imageToVideoFeaturesGallery",
+      "howItWorks": "imageToVideoHowItWorks",
+      "otherFeatures": "imageToVideoOtherFeaturesData",
+      "faq": "imageToVideoFaqs",
+      "cta": "imageToVideoCta"
     }
   }
 ]

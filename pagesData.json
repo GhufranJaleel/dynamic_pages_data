@@ -38,6 +38,8 @@
         "text": "Generate Video Free",
         "link": "/dashboard/text-to-image/create"
       },
+      "isVideo":"true",
+      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
     "AIVideoEffectsHeroSection": {

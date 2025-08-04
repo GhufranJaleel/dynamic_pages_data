@@ -18,7 +18,7 @@
         "text": "Start Creating",
         "link": "/dashboard/text-to-image/create"
       },
-      "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
+      "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/HeroSection.webp"
     },
     "TexttoVideoHeroSection": {
       "preHeading": "Create Stunning Videos with",

@@ -8,7 +8,7 @@
         "text": "Start Creating",
         "link": "/dashboard/text-to-image/create"
       },
-      "isVideo":"true",
+      "isVideo":"false",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
     "aiImageGeneratorHeroSection": {
@@ -19,7 +19,7 @@
         "text": "Start Creating",
         "link": "/dashboard/text-to-image/create"
       },
-      "isVideo":"true",
+      "isVideo":"false",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/HeroSection.webp"
     },
     "TexttoVideoHeroSection": {

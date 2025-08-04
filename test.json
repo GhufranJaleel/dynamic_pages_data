@@ -8,7 +8,7 @@
       "howItWorks": "textToImageHowItWorks",
       "otherFeatures": "textToImageOtherFeaturesData",
       "faq": "textToImageFaqs",
-      "cta": "textToImage"
+      "cta": "textToImageCta"
     }
   },
    {
@@ -19,8 +19,8 @@
       "featuresGallery": "aiImageGeneratorFeaturesGallery",
       "howItWorks": "aiImageGeneratorHowItWorks",
       "otherFeatures": "aiImageGeneratorOtherFeaturesData",
-      "faq": "textToImageFaqs",
-      "cta": "textToImage"
+      "faq": "aiImageGeneratorFaqs",
+      "cta": "aiImageGeneratorCta"
     }
   }
   ,

@@ -668,7 +668,7 @@
       "button": false,
       "image": "/img/landing/Featured/imagine3.webp"
     },
-    "textToImage": {
+    "textToImageCta": {
       "heading": "Start Creating With",
       "subHeading": "Aspire Today!",
       "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
@@ -678,7 +678,7 @@
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"
     },
-    "aiImageGenerator": {
+    "aiImageGeneratorCta": {
       "heading": "Start Creating With",
       "subHeading": "Aspire Today!",
       "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",

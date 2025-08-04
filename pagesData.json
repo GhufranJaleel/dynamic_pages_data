@@ -30,7 +30,7 @@
       },
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
-    "ImagetoVideoHeroSection": {
+    "imagetoVideoHeroSection": {
       "preHeading": "Turn Your Images into Stunning Videos with",
       "title": "Aspire AI’s Image to Video Tool",
       "description": "Unlock a new dimension for your creative content with Aspire AI\"s Image to Video Generator. Whether you want to transform your photos into dynamic videos or add artificial intelligence video effects to your images, our AI image to video generator delivers professional quality results in seconds. You no longer need complex software or editing skills—just upload your image, and let Aspire AI work its magic to turn it into an engaging video.",
@@ -121,7 +121,41 @@
           "icon": "FaPalette"
         }
       ]
-    }
+    },
+    "imagetoVideoWhyChooseUs": {
+    "titleParts": {
+      "before": "Why Choose Aspire AI’s Image to Video Generator?",
+      "highlight": "Aspire AI",
+      "after": "?"
+    },
+    "subtitle": "Generate beautiful AI Videos in seconds—no experience needed.",
+    "features": [
+      {
+        "name": "Instant Transformation",
+        "description":
+          "Convert any image to video effortlessly. Simply upload your photo or picture, and let Aspire AI create an AI video from your image in minutes.",
+        "icon": "FaRocket"
+      },
+      {
+        "name": "No Technical Skills Required",
+        "description":
+          "Whether you're a photographer, marketer, or content creator, our AI video creator makes video production as simple as uploading a photo.",
+        "icon": "FaUserAlt"
+      },
+       {
+        "name": "Free Image to Video Tool",
+        "description":
+          "Start creating with our free image to video AI tool, and create professional-quality videos without restrictions or hidden fees.",
+        "icon": "FaPalette"
+      },
+      {
+        "name": "Customizable Videos",
+        "description":
+          "Adjust the animation effects, transitions, and resolution to suit your creative vision.",
+        "icon": "FaPalette"
+      }
+    ]
+  }
   },
   "FEATURES_GALLERY_DATA": {
     "textToImageFeaturesGallery": {

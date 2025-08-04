@@ -33,7 +33,7 @@
       "howItWorks": "aiImageGeneratorHowItWorks",
       "otherFeatures": "aiImageGeneratorOtherFeaturesData",
       "faq": "textToImageFaqs",
-      "cta": "textToImage"
+      "cta": "textToImageCta"
     }
   }
 ]

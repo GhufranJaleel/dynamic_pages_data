@@ -48,5 +48,30 @@
       "faq": "aIVideoGeneratorFaqs",
       "cta": "aIVideoGeneratorCta"
     }
+  },
+     {
+    "slug": "ai-video-effects",
+    "components": {
+      "hero": "aIVideoEffectsHeroSection",
+      "whyChooseUs": "aIVideoEffectsWhyChooseUs",
+       "featuresGallery": "aIVideoEffectsFeaturesGallery",
+      "howItWorks": "aIVideoEffectsHowItWorks",
+      "otherFeatures": "aIVideoEffectsOtherFeaturesData",
+      "faq": "aIVideoEffectsFaqs",
+      "cta": "aIVideoEffectsCta"
+    }
+  },
+
+  {
+    "slug": "text-to-video",
+    "components": {
+      "hero": "texttoVideoHeroSection",
+      "whyChooseUs": "texttoVideoWhyChooseUs",
+       "featuresGallery": "texttoVideoFeaturesGallery",
+      "howItWorks": "texttoVideoHowItWorks",
+      "otherFeatures": "texttoVideoOtherFeaturesData",
+      "faq": "texttoVideoFaqs",
+      "cta": "texttoVideoCta"
+    }
   }
 ]

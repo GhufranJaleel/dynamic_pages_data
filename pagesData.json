@@ -3,7 +3,7 @@
     "textToImageHeroSection": {
       "preHeading": "Create Stunning Visuals with",
       "title": "Aspire AI’s Text to Image Tool",
-      "description": "Transform your ideas into beautiful, high quality images in seconds with Aspire AI\"s Text to Image tool. Whether you\"re working on branding, \n    personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.",
+      "description": "Transform your ideas into beautiful, high quality images in seconds with Aspire AI's Text to Image tool. Whether you\"re working on branding, \n    personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.",
       "button": {
         "text": "Start Creating",
         "link": "/dashboard/text-to-image/create"
@@ -36,7 +36,7 @@
     "imageToVideoHeroSection": {
       "preHeading": "Turn Your Images into Stunning Videos with",
       "title": "Aspire AI’s Image to Video Tool",
-      "description": "Unlock a new dimension for your creative content with Aspire AI\"s Image to Video Generator. Whether you want to transform your photos into dynamic videos or add artificial intelligence video effects to your images, our AI image to video generator delivers professional quality results in seconds. You no longer need complex software or editing skills—just upload your image, and let Aspire AI work its magic to turn it into an engaging video.",
+      "description": "Unlock a new dimension for your creative content with Aspire AI's Image to Video Generator. Whether you want to transform your photos into dynamic videos or add artificial intelligence video effects to your images, our AI image to video generator delivers professional quality results in seconds. You no longer need complex software or editing skills—just upload your image, and let Aspire AI work its magic to turn it into an engaging video.",
       "button": {
         "text": "Generate Video Free",
         "link": "/dashboard/text-to-image/create"

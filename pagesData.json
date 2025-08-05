@@ -614,7 +614,7 @@
       "title": "For Social Media Creators",
       "description":
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
-      "image": ["/img/features/generatePages/ArtistsandIllustrators.webp","/img/features/generatePages/ArtistsandIllustrators1.webp"],
+      "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "points": [
@@ -639,7 +639,7 @@
       "title": "For Marketers and Advertisers",
       "description":
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
-        "image": ["/img/features/generatePages/HobbyistsandCreators.webp"],
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp",],
       "isVideo":"true",
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "points": [
@@ -664,7 +664,7 @@
       "title": "For Photographers and Designers",
       "description":
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
-        "image": ["/img/features/generatePages/EntrepreneursandSmallBusinesses.webp","/img/features/generatePages/EntrepreneursandSmallBusinesses1.webp"],
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "points": [
@@ -689,7 +689,7 @@
       "title": "For Content Creators and Storytellers",
       "description":
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
-        "image": ["/img/features/generatePages/WritersandStorytellers.webp","/img/features/generatePages/WritersandStorytellers1.webp","/img/features/generatePages/WritersandStorytellers2.webp"],
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "points": [
@@ -714,7 +714,7 @@
       "title": "For Personal Projects",
       "description":
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
-        "image": ["/img/features/generatePages/DesignersandIllustrators.webp","/img/features/generatePages/DesignersandIllustrators1.webp"],
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "points": [

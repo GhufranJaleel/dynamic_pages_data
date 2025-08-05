@@ -183,6 +183,8 @@
         }
       ],
       "bottomText": "No more waiting on expensive designers or using clunky design software. Aspire AI lets you create high-quality visuals in minutes, saving you time and money.",
+       "isVideo":"false",
+      "video": "",
       "imageGroups": [
         [
           "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/20.webp"
@@ -215,6 +217,8 @@
         }
       ],
       "bottomText": "No more waiting on expensive designers or using clunky design software. Aspire AI lets you create high-quality visuals in minutes, saving you time and money.",
+      "isVideo":"false",
+      "video": "",
       "imageGroups": [
         [
           "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/11.webp"

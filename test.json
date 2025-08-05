@@ -30,8 +30,8 @@
       "hero": "imageToVideoHeroSection",
       "whyChooseUs": "imageToVideoWhyChooseUs",
        "featuresGallery": "imageToVideoFeaturesGallery",
-      "howItWorks": "textToImageHowItWorks",
-      "otherFeatures": "textToImageOtherFeaturesData",
+      "howItWorks": "imageToVideoHowItWorks",
+      "otherFeatures": "imageToVideoOtherFeaturesData",
       "faq": "textToImageFaqs",
       "cta": "textToImageCta"
     }

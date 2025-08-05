@@ -228,7 +228,48 @@
           "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/4.webp"
         ]
       ]
-    }
+    },
+      "ImageToVideoFeaturesGallery": {
+    "heading": "Unlock the Power of AI Generated Videos from Your Images",
+    "subheading":
+      "With Aspire AI, you can transform static images into dynamic videos for a wide range of creative and professional uses:",
+    "points": [
+      {
+        "title": "Social Media Content: ",
+        "description":
+          "Create scroll-stopping videos for your posts, stories, and ads. Whether you're promoting a product or sharing a moment, animated visuals help increase engagement and visibility.\n\n"
+      },
+      {
+        "title": "Personal Projects:",
+        "description":
+          "Bring your personal memories and ideas to life. From animated family photos to visual storytelling and creative experiments, Aspire AI gives you the tools to express yourself without limits."
+      },
+      {
+        "title": "Professional Use:",
+        "description":
+          "Generate polished, animated content for branding, portfolios, product showcases, and marketing campaigns. All videos are ready within minutes and include commercial rights—ideal for business use"
+      }
+
+    ],
+    "bottomText":
+      "No need for expensive video editors or technical skills. Aspire AI simplifies video creation by turning your images into high-quality, animated content—saving you both time and production costs.\n",
+      "isVideo":"true",
+      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+    "imageGroups": [
+      [
+        "/"
+      ],
+      [
+        "/",
+        "/"
+      ],
+      [
+        "/",
+        "/"
+      ]
+     
+    ]
+  }
   },
   "HOW_IT_WORKS_DATA": {
     "textToImageHowItWorks": {

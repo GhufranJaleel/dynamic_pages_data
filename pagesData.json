@@ -22,7 +22,7 @@
       "isVideo":"false",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/aiImagegenerator/HeroSection.webp"
     },
-    "TexttoVideoHeroSection": {
+    "texttoVideoHeroSection": {
       "preHeading": "Create Stunning Videos with",
       "title": "Aspire AI`s Video Generator",
       "description": "Unleash your creativity and transform your text and images into engaging AI generated videos in just minutes. Whether you need text to video AI or an easy way to animate your visuals, Aspire AI is the ultimate video AI generator for content creators, marketers, and storytellers. With our AI video maker, you can effortlessly create high quality videos without the need for complex video editing skills.",
@@ -45,15 +45,16 @@
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
-    "AIVideoEffectsHeroSection": {
-      "preHeading": "Aspire AI Video Effects",
-      "title": "Bring Your Moments to Life with AI Magic",
+    "aIVideoEffectsHeroSection": {
+      "preHeading": "Bring Your Moments to Life with",
+      "title": "Aspire AI Video Effects",
       "description": "Transform your ideas into captivating visuals with Aspire AI Video Effects! Our free AI video effects turn photos into playful AI squish effects, nostalgic animations, or dynamic videos. No editing skills needed! Do you understand the power of instant video magic? Yes, it\"s effortless. No limits—create AI video effects online free for personal or commercial projects. Start now and make every moment unforgettable!",
       "button": {
         "text": "Start Creating for Free",
         "link": "/dashboard/text-to-image/create"
       },
       "isVideo":"true",
+      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
     "aIVideoGeneratorHeroSection": {
@@ -132,6 +133,74 @@
     "imageToVideoWhyChooseUs": {
     "titleParts": {
       "before": "Why Choose Aspire AI’s Image to Video Generator?",
+      "highlight": "Aspire AI",
+      "after": "?"
+    },
+    "subtitle": "Generate beautiful AI Videos in seconds—no experience needed.",
+    "features": [
+      {
+        "name": "Instant Transformation",
+        "description":
+          "Convert any image to video effortlessly. Simply upload your photo or picture, and let Aspire AI create an AI video from your image in minutes.",
+        "icon": "FaRocket"
+      },
+      {
+        "name": "No Technical Skills Required",
+        "description":
+          "Whether you're a photographer, marketer, or content creator, our AI video creator makes video production as simple as uploading a photo.",
+        "icon": "FaUserAlt"
+      },
+       {
+        "name": "Free Image to Video Tool",
+        "description":
+          "Start creating with our free image to video AI tool, and create professional-quality videos without restrictions or hidden fees.",
+        "icon": "FaPalette"
+      },
+      {
+        "name": "Customizable Videos",
+        "description":
+          "Adjust the animation effects, transitions, and resolution to suit your creative vision.",
+        "icon": "FaPalette"
+      }
+    ]
+  },
+  "aIVideoGeneratorWhyChooseUs": {
+    "titleParts": {
+      "before": "Why Choose Aspire AI’s Video Generator?",
+      "highlight": "Aspire AI's",
+      "after": "?"
+    },
+    "subtitle": "Generate beautiful AI Videos in seconds—no experience needed.",
+    "features": [
+      {
+        "name": "Instant Transformation",
+        "description":
+          "Convert any image to video effortlessly. Simply upload your photo or picture, and let Aspire AI create an AI video from your image in minutes.",
+        "icon": "FaRocket"
+      },
+      {
+        "name": "No Technical Skills Required",
+        "description":
+          "Whether you're a photographer, marketer, or content creator, our AI video creator makes video production as simple as uploading a photo.",
+        "icon": "FaUserAlt"
+      },
+       {
+        "name": "Free Image to Video Tool",
+        "description":
+          "Start creating with our free image to video AI tool, and create professional-quality videos without restrictions or hidden fees.",
+        "icon": "FaPalette"
+      },
+      {
+        "name": "Customizable Videos",
+        "description":
+          "Adjust the animation effects, transitions, and resolution to suit your creative vision.",
+        "icon": "FaPalette"
+      }
+    ]
+  }
+  "texttoVideoWhyChooseUs": {
+    "titleParts": {
+      "before": "Why Choose Aspire AI Text to Video Generator?",
       "highlight": "Aspire AI",
       "after": "?"
     },
@@ -273,7 +342,90 @@
       ]
      
     ]
-  }
+  },
+   "aIVideoGeneratorGallery": {
+    "heading": "Unlock the Power of AI Generated Videos from Your Images",
+    "subheading":
+      "With Aspire AI, you can transform static images into dynamic videos for a wide range of creative and professional uses:",
+    "points": [
+      {
+        "title": "Social Media Content: ",
+        "description":
+          "Create scroll-stopping videos for your posts, stories, and ads. Whether you're promoting a product or sharing a moment, animated visuals help increase engagement and visibility.\n\n"
+      },
+      {
+        "title": "Personal Projects:",
+        "description":
+          "Bring your personal memories and ideas to life. From animated family photos to visual storytelling and creative experiments, Aspire AI gives you the tools to express yourself without limits."
+      },
+      {
+        "title": "Professional Use:",
+        "description":
+          "Generate polished, animated content for branding, portfolios, product showcases, and marketing campaigns. All videos are ready within minutes and include commercial rights—ideal for business use"
+      }
+
+    ],
+    "bottomText":
+      "No need for expensive video editors or technical skills. Aspire AI simplifies video creation by turning your images into high-quality, animated content—saving you both time and production costs.\n",
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/Extra.mp4",
+    "imageGroups": [
+      [
+        "/"
+      ],
+      [
+        "/",
+        "/"
+      ],
+      [
+        "/",
+        "/"
+      ]
+     
+    ]
+  },
+  "texttoVideoGallery": {
+    "heading": "Unlock the Power of AI Generated Videos from Your Prompt",
+    "subheading":
+      "With Aspire AI, you can transform static images into dynamic videos for a wide range of creative and professional uses:",
+    "points": [
+      {
+        "title": "Social Media Content: ",
+        "description":
+          "Create scroll-stopping videos for your posts, stories, and ads. Whether you're promoting a product or sharing a moment, animated visuals help increase engagement and visibility.\n\n"
+      },
+      {
+        "title": "Personal Projects:",
+        "description":
+          "Bring your personal memories and ideas to life. From animated family photos to visual storytelling and creative experiments, Aspire AI gives you the tools to express yourself without limits."
+      },
+      {
+        "title": "Professional Use:",
+        "description":
+          "Generate polished, animated content for branding, portfolios, product showcases, and marketing campaigns. All videos are ready within minutes and include commercial rights—ideal for business use"
+      }
+
+    ],
+    "bottomText":
+      "No need for expensive video editors or technical skills. Aspire AI simplifies video creation by turning your images into high-quality, animated content—saving you both time and production costs.\n",
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/Extra.mp4",
+    "imageGroups": [
+      [
+        "/"
+      ],
+      [
+        "/",
+        "/"
+      ],
+      [
+        "/",
+        "/"
+      ]
+     
+    ]
+  },
+  
   },
   "HOW_IT_WORKS_DATA": {
     "textToImageHowItWorks": {
@@ -371,7 +523,46 @@
           "description": "Tweak your AI video effects with tools for styles, transitions, or HD resolutions."
         }
       ]
+    },
+    "aIVideoGeneratorHowItWorks": {
+  "title": "Create Stunning Videos in Minutes",
+  "subtitle": "Upload your image or input your text, and Aspire AI will turn it into a dynamic AI video. Whether you need an image to video transformation or want to generate a video from text, we offer a seamless experience.",
+  "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+  "features": [
+    {
+      "name": "Choose Between Two Powerful Video Effects Models",
+      "description": "Template-based Effects: Instantly create professional videos using pre-built templates tailored to your style.\n\nImage to Animation: Bring still images to life with AI-driven animation effects. Add movement, transitions, and more to make your visuals truly dynamic."
+    },
+    {
+      "name": "Free and Easy to Use",
+      "description": "Get started for free with no watermarks and full commercial rights. Aspire AI Video Generator is designed to make high-quality video creation accessible to everyone—no need for expensive software or extensive video editing skills."
     }
+  ]
+} // conetnt patern is changed
+    "texttoVideoHowItWorks": {
+      "title": "How Aspire AI Text to Video Works",
+      "subtitle": "Our AI video effects process is simple, fast, and powerful.",
+      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "features": [
+        {
+          "name": "Text to Video AI:",
+          "description": "Start by entering your text prompt or uploading an image. Aspire AI will use advanced AI to instantly transform it into a video."
+        },
+        {
+          "name": "Customize Your Video:",
+          "description": "Use our simple tools to adjust the style, effects with HD resolution."
+        },
+        {
+          "name": "Preview & Tweak:",
+          "description": "View your AI-generated video, tweak it to your liking, and make it perfect for your needs."
+        },
+        {
+          "name": "Download & Share:",
+          "description": "Once you're satisfied, download your video or share it directly on social media or your website."
+        }
+      ]
+    },
+
   },
   "OTHER_FEATURES_DATA": {
     "textToImageOtherFeaturesData": [
@@ -628,7 +819,7 @@
         "imageLeft": false
       }
     ],
-     "imageToVideoOtherFeaturesData": [
+    "imageToVideoOtherFeaturesData": [
     {
     
       "title": "For Social Media Creators",
@@ -755,6 +946,156 @@
       },
       "imageLeft": false
     }
+  ],
+    "aIVideoGeneratorOtherFeaturesData": {
+  "sectionTitle": "Two Powerful Models to Choose From",
+  "models": [
+    {
+      "title": "Template-based Video Effects",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/MarketersAdvertisers.mp4",
+      "layout": "text-left",
+      "points": [
+        {
+          "label": "Pre-built Templates",
+          "text": "Choose from a variety of video templates that include built-in effects and transitions."
+        },
+        {
+          "label": "Quick & Professional",
+          "text": "Perfect for creating polished videos quickly for social media posts, advertisements, or event highlights."
+        },
+        {
+          "label": "Easy Customization",
+          "text": "Adjust the templates with your own images, text, or branding to make the video unique to your needs."
+        }
+      ]
+    },
+    {
+      "title": "Image to Animation",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/PhotographersDesigners.mp4",
+      "layout": "text-right",
+      "points": [
+        {
+          "label": "Bring Photos to Life",
+          "text": "Use AI animation effects to add movement to your photos—whether it’s a pan, zoom, or adding motion effects."
+        },
+        {
+          "label": "Create Stunning Visuals",
+          "text": "From simple photo-to-video animations to more complex effects, you can animate any image and make it visually captivating."
+        },
+        {
+          "label": "Perfect for Memories",
+          "text": "Animate old photos and create nostalgic, heartfelt videos for personal use or family projects."
+        }
+      ]
+    }
+  ]
+}, // conetnt patern is changed
+    "texttoVideoOtherFeaturesData": [
+    {
+    
+      "title": "For Social Media Creators",
+      "description":
+        "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+      "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/SocialMedia.mp4",
+      "points": [
+        {
+          "label": "Grab Attention:",
+          "text":
+            "Generate AI videos from your text prompts to create engaging content for your audience. Whether it’s an AI video from text or an image-to-video AI transformation, your posts will never lack attention-grabbing visuals."
+        },
+        {
+          "label": "Viral Content:",
+          "text":
+            "Perfect for creating viral content on TikTok, Instagram, or YouTube."
+        }
+      ],
+      "button": {
+        "text": "Create Transition Now",
+        "link": "/dashboard/image-to-video/create"
+      },
+      "imageLeft": false
+    },
+    {
+      "title": "For Marketers and Advertisers",
+      "description":
+        "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/MarketersAdvertisers.mp4",
+      "points": [
+        {
+          "label": "Video Campaign:",
+          "text":
+            "Create videos for campaigns quickly and easily with AI text to video capabilities. Whether you’re looking for AI video creators to generate product demos, ads, or promotional videos, Aspire AI saves you time and money.
+"
+        },
+        {
+          "label": "Social Ads:",
+          "text":
+            "Generate AI-generated video content for social media ads, landing pages, and email campaigns."
+        }
+      ],
+      "button": {
+        "text": "Create Art",
+        "link": "/dashboard/image-to-video/create"
+      },
+      "imageLeft": true
+    },
+    {
+      "title": "For Content Creators & Storytellers",
+      "description":
+        "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/PhotographersDesigners.mp4",
+      "points": [
+        {
+          "label": "Animation:",
+          "text":
+            "Take your storytelling to the next level by creating AI videos from text or images. Whether it’s a narrative video, animated intro, or explainer video, Aspire AI has you covered."
+        },
+        {
+          "label": "Visual Story:",
+          "text":
+            "Easily create animated visual stories from written content, giving life to your ideas with AI-powered videos.
+"
+        }
+      ],
+      "button": {
+        "text": "Illustrate Now",
+        "link": "/dashboard/text-to-image/create"
+      },
+      "imageLeft": false
+    },
+    {
+      "title": "For Educators & Trainers",
+      "description":
+        "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/ContentCreatorsStorytellers.mp4",
+      "points": [
+        {
+          "label": "Educational Videos:",
+          "text":
+            "Use the AI video generator to create educational videos or explainer videos from text. Bring complex concepts to life by turning written explanations into visual lessons."
+        },
+        {
+          "label": "Online Course:",
+          "text":
+            "Whether it’s for an online course or an educational blog, Aspire AI text-to-video functionality makes learning more interactive and engaging."
+        }
+      ],
+      "button": {
+        "text": "Create Featured Image",
+        "link": "/dashboard/image-to-video/create"
+      },
+      "imageLeft": true
+    }
+  ]}
+  }
   ]
   },
   "FAQ_DATA": {
@@ -891,7 +1232,84 @@
           "After uploading your image, you can use Aspire AI’s tools to add transitions, effects, and even adjust the video resolution to 4K. Customize your video to suit your needs."
       }
     ]
+  },
+    "aIVideoGeneratorFaqs": {
+    "title": "Questions",
+    "subtitle": "Frequently Asked",
+    "questions": [
+      {
+        "title": "What is Aspire AI Video Generator?",
+        "content":
+          "Aspire AI Video Generator uses advanced artificial intelligence to transform images or text into professional-quality videos. It’s designed to be easy-to-use for anyone, with no video editing experience required."
+      },
+      {
+        "title": "Is the Aspire AI Video Generator Free?",
+        "content":
+          "Yes! Aspire AI offers free access to the video generator with no watermarks or hidden fees. You can create AI videos and use them for personal or commercial purposes.
+"
+      },
+      {
+        "title": "How do I create a video?",
+        "content":
+          "Simply upload your image or text, choose between template-based effects or image-to-animation, and let Aspire AI create the video. Customize the video with effects or transitions to fit your style, and then download or share it."
+      },
+      {
+        "title": "Can I use the videos for commercial purposes?",
+        "content":
+          "Yes! All AI-generated videos come with full commercial rights, so you can use them for advertising, marketing, social media, or any business project without restrictions."
+      },
+      {
+        "title": "How long does Aspire AI take to generate a video?",
+        "content":
+          "Most videos are created in under a minute. The process is quick and efficient, but complex animations may take slightly longer to process."
+      },
+      {
+        "title": "Can I animate old photos?",
+        "content":
+          "Absolutely! Aspire AI’s Image to Animation feature lets you animate old photos and bring them to life with motion effects."
+      }
+    ]
   }
+  },
+    "texttoVideoFaqs": {
+    "title": "Questions",
+    "subtitle": "Frequently Asked",
+    "questions": [
+      {
+        "title": "What is an AI Video Generator?",
+        "content":
+          "An AI video generator uses artificial intelligence to create dynamic videos from your text, prompts, or images. It automatically transforms your written ideas or visuals into fully formed videos, complete with animations and effects, in minutes."
+      },
+      {
+        "title": "Is Aspire AI’s Video Generator Free?",
+        "content":
+          "Yes! Aspire AI offers a free AI video maker with no watermarks and full commercial rights for your AI-generated videos. You can start creating right away, with no credit card required.
+"
+      },
+      {
+        "title": "How do I create a video with Aspire AI?",
+        "content":
+          "Simply type your text prompt or upload an image. Our AI video generator will instantly turn it into a video. You can adjust styles, add effects, and fine-tune the video before downloading or sharing."
+      },
+      {
+        "title": "Can I use AI-generated videos for commercial purposes?",
+        "content":
+          "Absolutely! All AI videos created with Aspire AI come with full commercial rights, meaning you can use them for advertising, promotions, social media posts, and more."
+      },
+      {
+        "title": "How long does Aspire AI take to generate a video?",
+        "content":
+          "Creating an AI video from text typically takes under a minute. The process is quick, and you can adjust the quality or speed depending on your needs."
+      },
+      {
+        "title": "Can I generate videos from images?",
+        "content":
+          "Yes! Aspire AI allows you to transform images into videos. You can animate your images and bring them to life with AI-powered video effects."
+      }
+    ]
+  }
+  },
+  ]
   },
   "CTA_DATA": {
     "landingPageSocial": {
@@ -924,7 +1342,27 @@
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"
     },
-     "imageToVideoCta": {
+    "imageToVideoCta": {
+      "heading": "Start Creating With",
+      "subHeading": "Aspire Today!",
+      "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
+      "buttonContent": "Start Creating for Free",
+      "buttonUrl": "/dashboard/text-to-image/create",
+      "social": false,
+      "button": true,
+      "image": "/img/landing/Featured/imagine3.webp"
+    },
+    "aIVideoGeneratorCta": {
+      "heading": "Start Creating With",
+      "subHeading": "Aspire Today!",
+      "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
+      "buttonContent": "Start Creating for Free",
+      "buttonUrl": "/dashboard/text-to-image/create",
+      "social": false,
+      "button": true,
+      "image": "/img/landing/Featured/imagine3.webp"
+    },
+    "texttoVideoCta": {
       "heading": "Start Creating With",
       "subHeading": "Aspire Today!",
       "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
@@ -935,4 +1373,3 @@
       "image": "/img/landing/Featured/imagine3.webp"
     }
   }
-}

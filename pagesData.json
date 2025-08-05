@@ -322,7 +322,7 @@
         }
       ]
     },
-    "ImageToVideoHowItWorks": {
+    "imageToVideoHowItWorks": {
       "title": "How Aspire AI Image to Video Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
       "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/ImagetoVideo.mp4",

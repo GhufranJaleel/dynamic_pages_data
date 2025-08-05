@@ -258,7 +258,7 @@
     "bottomText":
       "No need for expensive video editors or technical skills. Aspire AI simplifies video creation by turning your images into high-quality, animated content—saving you both time and production costs.\n",
       "isVideo":"true",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/Extra.mp4",
     "imageGroups": [
       [
         "/"
@@ -325,7 +325,7 @@
     "imageToVideoHowItWorks": {
       "title": "How Aspire AI Image to Video Works",
       "subtitle": "Create AI art effortlessly in just a few steps.",
-      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/ImagetoVideo.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/AiMagic.mp4",
       "features": [
         {
           "name": "Upload Your Image:",
@@ -636,7 +636,7 @@
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
       "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/SocialMedia.mp4",
       "points": [
         {
           "label": "Boost engagement:",
@@ -651,7 +651,7 @@
       ],
       "button": {
         "text": "Create Transition Now",
-        "link": "/dashboard/text-to-image/create"
+        "link": "/dashboard/image-to-video/create"
       },
       "imageLeft": false
     },
@@ -661,7 +661,7 @@
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/MarketersAdvertisers.mp4",
       "points": [
         {
           "label": "Advertising Videos:",
@@ -676,7 +676,7 @@
       ],
       "button": {
         "text": "Create Art",
-        "link": "/dashboard/text-to-image/create"
+        "link": "/dashboard/image-to-video/create"
       },
       "imageLeft": true
     },
@@ -686,7 +686,7 @@
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/PhotographersDesigners.mp4",
       "points": [
         {
           "label": "Images conversion:",
@@ -711,7 +711,7 @@
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/ContentCreatorsStorytellers.mp4",
       "points": [
         {
           "label": "Animate photos:",
@@ -726,7 +726,7 @@
       ],
       "button": {
         "text": "Create Featured Image",
-        "link": "/dashboard/text-to-image/create"
+        "link": "/dashboard/image-to-video/create"
       },
       "imageLeft": true
     },
@@ -736,7 +736,7 @@
         "Aspire AI is crafted for every industry to ensure smooth, beautiful artwork with a single prompt. If you're exploring your domain, here are some features.",
         "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
       "isVideo":"true",
-      "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/PersonalProjects.mp4",
       "points": [
         {
           "label": "Memories to life:",

@@ -32,8 +32,8 @@
        "featuresGallery": "imageToVideoFeaturesGallery",
       "howItWorks": "imageToVideoHowItWorks",
       "otherFeatures": "imageToVideoOtherFeaturesData",
-      "faq": "textToImageFaqs",
-      "cta": "textToImageCta"
+      "faq": "imageToVideoFaqs",
+      "cta": "imageToVideoCta"
     }
   }
 ]

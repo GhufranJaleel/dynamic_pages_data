@@ -40,13 +40,13 @@
    {
     "slug": "ai-video-generator",
     "components": {
-      "hero": "aivideogeneratorHeroSection",
-      "whyChooseUs": "aivideogeneratorWhyChooseUs",
-       "featuresGallery": "aivideogeneratorFeaturesGallery",
-      "howItWorks": "aivideogeneratorHowItWorks",
-      "otherFeatures": "aivideogeneratorOtherFeaturesData",
-      "faq": "aivideogeneratorFaqs",
-      "cta": "aivideogeneratorCta"
+      "hero": "aIVideoGeneratorHeroSection",
+      "whyChooseUs": "aIVideoGeneratorWhyChooseUs",
+       "featuresGallery": "aIVideoGeneratorFeaturesGallery",
+      "howItWorks": "aIVideoGeneratorHowItWorks",
+      "otherFeatures": "aIVideoGeneratorOtherFeaturesData",
+      "faq": "aIVideoGeneratorFaqs",
+      "cta": "aIVideoGeneratorCta"
     }
   }
 ]

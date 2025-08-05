@@ -29,7 +29,7 @@
     "components": {
       "hero": "imageToVideoHeroSection",
       "whyChooseUs": "imageToVideoWhyChooseUs",
-       "featuresGallery": "textToImageFeaturesGallery",
+       "featuresGallery": "imageToVideoFeaturesGallery",
       "howItWorks": "textToImageHowItWorks",
       "otherFeatures": "textToImageOtherFeaturesData",
       "faq": "textToImageFaqs",

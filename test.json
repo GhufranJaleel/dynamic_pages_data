@@ -36,4 +36,17 @@
       "cta": "imageToVideoCta"
     }
   }
+    ,
+   {
+    "slug": "ai-video-generator",
+    "components": {
+      "hero": "aivideogeneratorHeroSection",
+      "whyChooseUs": "aivideogeneratorWhyChooseUs",
+       "featuresGallery": "aivideogeneratorFeaturesGallery",
+      "howItWorks": "aivideogeneratorHowItWorks",
+      "otherFeatures": "aivideogeneratorOtherFeaturesData",
+      "faq": "aivideogeneratorFaqs",
+      "cta": "aivideogeneratorCta"
+    }
+  }
 ]

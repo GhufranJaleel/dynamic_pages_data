@@ -994,7 +994,7 @@
           "label": "Image into Video:",
           "text":
             "Whether it’s a simple animation or a more complex effect, you can create stunning visuals that transform ordinary images into captivating video content."
-        }
+        },
          {
           "label": "Turn Old Memories:",
           "text":
@@ -1006,7 +1006,7 @@
         "link": "/dashboard/image-to-video/create"
       },
       "imageLeft": true
-    },
+    }
   ],
     "texttoVideoOtherFeaturesData": [
     {

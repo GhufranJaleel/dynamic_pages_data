@@ -529,12 +529,20 @@
   "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
   "features": [
     {
-      "name": "Choose Between Two Powerful Video Effects Models",
-      "description": "Template-based Effects: Instantly create professional videos using pre-built templates tailored to your style.\n\nImage to Animation: Bring still images to life with AI-driven animation effects. Add movement, transitions, and more to make your visuals truly dynamic."
+      "name": "Template-based Effects:",
+      "description": "Instantly create professional videos using pre-built templates tailored to your style."
+    },
+    {
+      "name": "Image to Animation:",
+      "description": "Bring still images to life with AI-driven animation effects. Add movement, transitions, and more to make your visuals truly dynamic."
     },
     {
       "name": "Free and Easy to Use",
-      "description": "Get started for free with no watermarks and full commercial rights. Aspire AI Video Generator is designed to make high-quality video creation accessible to everyone—no need for expensive software or extensive video editing skills."
+      "description": "Get started for free with no watermarks and full commercial rights."
+    },
+     {
+      "name": "High Quality Creation:",
+      "description": "Aspire AI Video Generator is designed to make high-quality video creation accessible to everyone—no need for expensive software or extensive video editing skills."
     }
   ]
 } ,

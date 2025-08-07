@@ -528,7 +528,7 @@
     "aIVideoGeneratorHowItWorks": {
   "title": "Create Stunning Videos in Minutes",
   "subtitle": "Upload your image or input your text, and Aspire AI will turn it into a dynamic AI video. Whether you need an image to video transformation or want to generate a video from text, we offer a seamless experience.",
-  "video": "https://aspireai.app/Videos/landing/getIdea.mp4",
+  "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/Ai%20Video%20Generator/Video.mp4",
   "features": [
     {
       "name": "Template-based Effects:",

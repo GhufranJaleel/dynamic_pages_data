@@ -424,8 +424,8 @@
       ]
      
     ]
+  }
   },
-  
   "HOW_IT_WORKS_DATA": {
     "textToImageHowItWorks": {
       "title": "How Aspire AI Image Generator Works",
@@ -1262,7 +1262,6 @@
           "Absolutely! Aspire AI’s Image to Animation feature lets you animate old photos and bring them to life with motion effects."
       }
     ]
-  }
   },
     "texttoVideoFaqs": {
     "title": "Questions",

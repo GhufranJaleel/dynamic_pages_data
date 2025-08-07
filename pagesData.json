@@ -31,6 +31,7 @@
         "link": "/dashboard/text-to-image/create"
       },
       "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/Text%20to%20video/3.mp4",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     },
     "imageToVideoHeroSection": {

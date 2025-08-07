@@ -197,7 +197,7 @@
         "icon": "FaPalette"
       }
     ]
-  }
+  },
   "texttoVideoWhyChooseUs": {
     "titleParts": {
       "before": "Why Choose Aspire AI Text to Video Generator?",
@@ -426,7 +426,6 @@
     ]
   },
   
-  },
   "HOW_IT_WORKS_DATA": {
     "textToImageHowItWorks": {
       "title": "How Aspire AI Image Generator Works",
@@ -538,7 +537,7 @@
       "description": "Get started for free with no watermarks and full commercial rights. Aspire AI Video Generator is designed to make high-quality video creation accessible to everyone—no need for expensive software or extensive video editing skills."
     }
   ]
-} // conetnt patern is changed
+} ,
     "texttoVideoHowItWorks": {
       "title": "How Aspire AI Text to Video Works",
       "subtitle": "Our AI video effects process is simple, fast, and powerful.",
@@ -562,8 +561,7 @@
         }
       ]
     },
-
-  },
+    
   "OTHER_FEATURES_DATA": {
     "textToImageOtherFeaturesData": [
       {
@@ -989,7 +987,7 @@
       ]
     }
   ]
-}, // conetnt patern is changed
+}, 
     "texttoVideoOtherFeaturesData": [
     {
     
@@ -1028,8 +1026,7 @@
         {
           "label": "Video Campaign:",
           "text":
-            "Create videos for campaigns quickly and easily with AI text to video capabilities. Whether you’re looking for AI video creators to generate product demos, ads, or promotional videos, Aspire AI saves you time and money.
-"
+            "Create videos for campaigns quickly and easily with AI text to video capabilities. Whether you’re looking for AI video creators to generate product demos, ads, or promotional videos, Aspire AI saves you time and money."
         },
         {
           "label": "Social Ads:",
@@ -1059,8 +1056,7 @@
         {
           "label": "Visual Story:",
           "text":
-            "Easily create animated visual stories from written content, giving life to your ideas with AI-powered videos.
-"
+            "Easily create animated visual stories from written content, giving life to your ideas with AI-powered videos."
         }
       ],
       "button": {
@@ -1095,8 +1091,6 @@
       "imageLeft": true
     }
   ]}
-  }
-  ]
   },
   "FAQ_DATA": {
     "landingPageFaqs": {
@@ -1245,8 +1239,7 @@
       {
         "title": "Is the Aspire AI Video Generator Free?",
         "content":
-          "Yes! Aspire AI offers free access to the video generator with no watermarks or hidden fees. You can create AI videos and use them for personal or commercial purposes.
-"
+          "Yes! Aspire AI offers free access to the video generator with no watermarks or hidden fees. You can create AI videos and use them for personal or commercial purposes."
       },
       {
         "title": "How do I create a video?",
@@ -1283,8 +1276,7 @@
       {
         "title": "Is Aspire AI’s Video Generator Free?",
         "content":
-          "Yes! Aspire AI offers a free AI video maker with no watermarks and full commercial rights for your AI-generated videos. You can start creating right away, with no credit card required.
-"
+          "Yes! Aspire AI offers a free AI video maker with no watermarks and full commercial rights for your AI-generated videos. You can start creating right away, with no credit card required."
       },
       {
         "title": "How do I create a video with Aspire AI?",
@@ -1308,8 +1300,6 @@
       }
     ]
   }
-  },
-  ]
   },
   "CTA_DATA": {
     "landingPageSocial": {
@@ -1372,4 +1362,4 @@
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"
     }
-  }
+  }}

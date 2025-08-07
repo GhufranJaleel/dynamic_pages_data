@@ -562,6 +562,7 @@
       ]
     },
     
+{
   "OTHER_FEATURES_DATA": {
     "textToImageOtherFeaturesData": [
       {
@@ -1092,6 +1093,9 @@
     }
   ]}
   },
+
+
+
   "FAQ_DATA": {
     "landingPageFaqs": {
       "title": "Questions",

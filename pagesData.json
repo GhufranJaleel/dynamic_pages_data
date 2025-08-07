@@ -132,8 +132,8 @@
     },
     "imageToVideoWhyChooseUs": {
     "titleParts": {
-      "before": "Why Choose Aspire AI’s Image to Video Generator?",
-      "highlight": "Aspire AI",
+      "before": "Why Choose Aspire AI’s Image to ",
+      "highlight": "Video Generator",
       "after": "?"
     },
     "subtitle": "Generate beautiful AI Videos in seconds—no experience needed.",
@@ -166,8 +166,8 @@
   },
   "aIVideoGeneratorWhyChooseUs": {
     "titleParts": {
-      "before": "Why Choose Aspire AI’s Video Generator?",
-      "highlight": "Aspire AI's",
+      "before": "Why Choose Aspire AI’s ",
+      "highlight": "Video Generator",
       "after": "?"
     },
     "subtitle": "Generate beautiful AI Videos in seconds—no experience needed.",
@@ -200,11 +200,11 @@
   },
   "texttoVideoWhyChooseUs": {
     "titleParts": {
-      "before": "Why Choose Aspire AI Text to Video Generator?",
-      "highlight": "Aspire AI",
+      "before": "Why Choose Aspire AI Text to ",
+      "highlight": "Video Generator",
       "after": "?"
     },
-    "subtitle": "Generate beautiful AI Videos in seconds—no experience needed.",
+    "subtitle": "Generate beautiful AI Videos in seconds no experience needed.",
     "features": [
       {
         "name": "Instant Transformation",

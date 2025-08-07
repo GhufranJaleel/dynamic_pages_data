@@ -560,10 +560,9 @@
           "description": "Once you're satisfied, download your video or share it directly on social media or your website."
         }
       ]
-    },
-    
-{
-  "OTHER_FEATURES_DATA": {
+    }
+  },
+    "OTHER_FEATURES_DATA": {
     "textToImageOtherFeaturesData": [
       {
         "title": "For Logo and Illustrators",
@@ -946,9 +945,9 @@
       "imageLeft": false
     }
   ],
-    "aIVideoGeneratorOtherFeaturesData": {
-  "sectionTitle": "Two Powerful Models to Choose From",
-  "models": [
+    "aIVideoGeneratorOtherFeaturesData": [
+  "sectionTitle",":", "Two Powerful Models to Choose From",
+  "models",":", [
     {
       "title": "Template-based Video Effects",
       "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/MarketersAdvertisers.mp4",
@@ -988,7 +987,7 @@
       ]
     }
   ]
-}, 
+], 
     "texttoVideoOtherFeaturesData": [
     {
     
@@ -1091,11 +1090,8 @@
       },
       "imageLeft": true
     }
-  ]}
-  },
-
-
-
+  ]
+    },
   "FAQ_DATA": {
     "landingPageFaqs": {
       "title": "Questions",
@@ -1365,4 +1361,6 @@
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"
     }
-  }}
+  }
+
+}

@@ -1211,7 +1211,7 @@
         }
       ]
     },
-    "ImageToVideoFaqs": {
+    "imageToVideoFaqs": {
     "title": "Questions",
     "subtitle": "Frequently Asked",
     "questions": [

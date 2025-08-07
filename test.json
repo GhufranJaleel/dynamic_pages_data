@@ -10,5 +10,68 @@
       "faq": "textToImageFaqs",
       "cta": "textToImageCta"
     }
+  },
+    {
+    "slug": "ai-image-generator",
+    "components": {
+      "hero": "aiImageGeneratorHeroSection",
+      "whyChooseUs": "aiImageGeneratorWhyChooseUs",
+      "featuresGallery": "aiImageGeneratorFeaturesGallery",
+      "howItWorks": "aiImageGeneratorHowItWorks",
+      "otherFeatures": "aiImageGeneratorOtherFeaturesData",
+      "faq": "aiImageGeneratorFaqs",
+      "cta": "aiImageGeneratorCta"
+    }
+  }
+  ,
+   {
+    "slug": "image-to-video",
+    "components": {
+      "hero": "imageToVideoHeroSection",
+      "whyChooseUs": "imageToVideoWhyChooseUs",
+       "featuresGallery": "imageToVideoFeaturesGallery",
+      "howItWorks": "imageToVideoHowItWorks",
+      "otherFeatures": "imageToVideoOtherFeaturesData",
+      "faq": "imageToVideoFaqs",
+      "cta": "imageToVideoCta"
+    }
+  }
+    ,
+   {
+    "slug": "ai-video-generator",
+    "components": {
+      "hero": "aIVideoGeneratorHeroSection",
+      "whyChooseUs": "aIVideoGeneratorWhyChooseUs",
+       "featuresGallery": "aIVideoGeneratorFeaturesGallery",
+      "howItWorks": "aIVideoGeneratorHowItWorks",
+      "otherFeatures": "aIVideoGeneratorOtherFeaturesData",
+      "faq": "aIVideoGeneratorFaqs",
+      "cta": "aIVideoGeneratorCta"
+    }
+  },
+     {
+    "slug": "ai-video-effects",
+    "components": {
+      "hero": "aIVideoEffectsHeroSection",
+      "whyChooseUs": "aIVideoEffectsWhyChooseUs",
+       "featuresGallery": "aIVideoEffectsFeaturesGallery",
+      "howItWorks": "aIVideoEffectsHowItWorks",
+      "otherFeatures": "aIVideoEffectsOtherFeaturesData",
+      "faq": "aIVideoEffectsFaqs",
+      "cta": "aIVideoEffectsCta"
+    }
+  },
+
+  {
+    "slug": "text-to-video",
+    "components": {
+      "hero": "texttoVideoHeroSection",
+      "whyChooseUs": "texttoVideoWhyChooseUs",
+       "featuresGallery": "texttoVideoFeaturesGallery",
+      "howItWorks": "texttoVideoHowItWorks",
+      "otherFeatures": "texttoVideoOtherFeaturesData",
+      "faq": "texttoVideoFaqs",
+      "cta": "texttoVideoCta"
+    }
   }
 ]

@@ -945,49 +945,69 @@
       "imageLeft": false
     }
   ],
-    "aIVideoGeneratorOtherFeaturesData": [
-  "sectionTitle",":", "Two Powerful Models to Choose From",
-  "models",":", [
+  "aIVideoGeneratorOtherFeaturesData": [
     {
-      "title": "Template-based Video Effects",
-      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/MarketersAdvertisers.mp4",
-      "layout": "text-left",
+    
+      "title": "Two Powerful Models to Choose From",
+      "description":
+        "Aspire AI offers two distinct video creation modes template based video effects for quick, professional results and image-to-animation tools to bring your photos to life with AI powered motion. Whether you need fast edits or creative animations, both options make video creation effortless and impactful.",
+      "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/SocialMedia.mp4",
       "points": [
         {
-          "label": "Pre-built Templates",
-          "text": "Choose from a variety of video templates that include built-in effects and transitions."
+          "label": "For Template-Based Video Effects:",
+          "text":
+            "Choose from a wide range of pre-built video templates designed with built-in effects and transitions to speed up your content creation process."
         },
         {
-          "label": "Quick & Professional",
-          "text": "Perfect for creating polished videos quickly for social media posts, advertisements, or event highlights."
+          "label": "Eye catching posts:",
+          "text":
+            "Perfect for creating quick, polished videos for social media posts, advertisements, event highlights, or marketing campaigns without needing design expertise."
         },
-        {
-          "label": "Easy Customization",
-          "text": "Adjust the templates with your own images, text, or branding to make the video unique to your needs."
+         {
+          "label": "Customize Template:",
+          "text":
+            "Easily customize each template with your own images, text, colors, and branding to create unique videos tailored to your goals."
         }
-      ]
+      ],
+      "button": {
+        "text": "Create Transition Now",
+        "link": "/dashboard/image-to-video/create"
+      },
+      "imageLeft": false
     },
     {
-      "title": "Image to Animation",
-      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/PhotographersDesigners.mp4",
-      "layout": "text-right",
+      "title": "For Image to Animation:",
+      "description":
+        "Transform your photos into engaging videos using AI-generated motion effects. Ideal for bringing personal memories, creative ideas, or nostalgic images to life with natural, eye-catching movement.",
+        "image": ["https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/EntrepreneursandSmallBusinesses.webp"],
+      "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/ImagetoVideo/MarketersAdvertisers.mp4",
       "points": [
         {
-          "label": "Bring Photos to Life",
-          "text": "Use AI animation effects to add movement to your photos—whether it’s a pan, zoom, or adding motion effects."
+          "label": "AI Animations:",
+          "text":
+            "Bring static photos to life using AI-powered animation effects like pan, zoom, or motion overlays that add movement and depth."
         },
         {
-          "label": "Create Stunning Visuals",
-          "text": "From simple photo-to-video animations to more complex effects, you can animate any image and make it visually captivating."
-        },
-        {
-          "label": "Perfect for Memories",
-          "text": "Animate old photos and create nostalgic, heartfelt videos for personal use or family projects."
+          "label": "Image into Video:",
+          "text":
+            "Whether it’s a simple animation or a more complex effect, you can create stunning visuals that transform ordinary images into captivating video content."
         }
-      ]
-    }
-  ]
-], 
+         {
+          "label": "Turn Old Memories:",
+          "text":
+            "Ideal for animating personal memories, nostalgic family photos, or adding emotional depth to any personal or creative video project."
+        }
+      ],
+      "button": {
+        "text": "Create Art",
+        "link": "/dashboard/image-to-video/create"
+      },
+      "imageLeft": true
+    },
+  ],
     "texttoVideoOtherFeaturesData": [
     {
     

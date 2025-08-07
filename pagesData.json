@@ -39,7 +39,7 @@
       "description": "Unlock a new dimension for your creative content with Aspire AI's Image to Video Generator. Whether you want to transform your photos into dynamic videos or add artificial intelligence video effects to your images, our AI image to video generator delivers professional quality results in seconds. You no longer need complex software or editing skills—just upload your image, and let Aspire AI work its magic to turn it into an engaging video.",
       "button": {
         "text": "Generate Video Free",
-        "link": "/dashboard/text-to-image/Hero"
+        "link": "/dashboard/text-to-image/Hero.mp4"
       },
       "isVideo":"true",
       "video": "https://aspireai.app/Videos/landing/getIdea.mp4",

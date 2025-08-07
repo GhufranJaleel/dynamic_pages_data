@@ -67,6 +67,7 @@
         "link": "/dashboard/text-to-image/create"
       },
       "isVideo":"true",
+      "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/Ai%20Video%20Generator/3.mp4",
       "image": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/textToImage/HeroSection.webp"
     }
   },

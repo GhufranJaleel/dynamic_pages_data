@@ -3,7 +3,7 @@
     "textToImageHeroSection": {
       "preHeading": "Create Stunning Visuals with",
       "title": "Aspire AI’s Text to Image Tool",
-      "description": "Transform your ideas into beautiful, high quality images in seconds with Aspire AI's Text to Image tool. Whether you\"re working on branding, \n    personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.",
+      "description": "Transform your ideas into beautiful, high quality images in seconds with Aspire AI's Text to Image tool. Whether you\'re working on branding, \n    personal art projects, or just experimenting, our text to art generator makes it easy to create stunning visuals—no design skills required. Just type a few words, and watch your vision come to life.",
       "button": {
         "text": "Start Creating",
         "link": "/dashboard/text-to-image/create"
@@ -14,7 +14,7 @@
     "aiImageGeneratorHeroSection": {
       "preHeading": "Unleash Your Creative Potential with",
       "title": "Aspire AI Image Generator",
-      "description": "Transform your ideas into high-quality, AI generated images that bring your vision to life. With Aspire AI Image Generator, you can create stunning visuals from just a few words or you can get ideas or optimize your prompt further. Whether you\"re designing for marketing, social media, or personal projects, Aspire AI allows you to produce eye catching images effortlessly, without the need for professional design skills.",
+      "description": "Transform your ideas into high-quality, AI generated images that bring your vision to life. With Aspire AI Image Generator, you can create stunning visuals from just a few words or you can get ideas or optimize your prompt further. Whether you\'re designing for marketing, social media, or personal projects, Aspire AI allows you to produce eye catching images effortlessly, without the need for professional design skills.",
       "button": {
         "text": "Start Creating",
         "link": "/dashboard/text-to-image/create"

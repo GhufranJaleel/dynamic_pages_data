@@ -1090,8 +1090,8 @@
         }
       ],
       "button": {
-        "text": "Illustrate Now",
-        "link": "/dashboard/text-to-image/create"
+        "text": "Create Viral Content",
+        "link": "/dashboard/video/ai-magic"
       },
       "imageLeft": false
     },
@@ -1115,8 +1115,8 @@
         }
       ],
       "button": {
-        "text": "Create Featured Image",
-        "link": "/dashboard/image-to-video/create"
+        "text": "Start Training",
+        "link": "/dashboard/video/ai-magic"
       },
       "imageLeft": true
     }

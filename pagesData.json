@@ -1386,7 +1386,7 @@
       "subHeading": "Aspire Today!",
       "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
       "buttonContent": "Start Creating for Free",
-      "buttonUrl": "/dashboard/text-to-image/create",
+      "buttonUrl": "/dashboard/video/ai-magic",
       "social": false,
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"

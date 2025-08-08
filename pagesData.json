@@ -64,7 +64,7 @@
       "description": "Transform your images and text into high quality AI generated videos—instantly. Whether you want to bring photos to life with animation or turn your written content into dynamic videos, Aspire AI provides an easy, fast, and innovative way to generate engaging videos without the need for complex editing software to bring your imaginations into the cinematic form.",
       "button": {
         "text": "Generate Video Free",
-        "link": "/dashboard/text-to-image/create"
+        "link": "/dashboard/video/ai-magic"
       },
       "isVideo":"true",
       "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/Ai%20Video%20Generator/3.mp4",
@@ -541,10 +541,6 @@
     {
       "name": "Free and Easy to Use",
       "description": "Get started for free with no watermarks and full commercial rights."
-    },
-     {
-      "name": "High Quality Creation:",
-      "description": "Aspire AI Video Generator is designed to make high-quality video creation accessible to everyone—no need for expensive software or extensive video editing skills."
     }
   ]
 } ,
@@ -983,7 +979,7 @@
       ],
       "button": {
         "text": "Create Transition Now",
-        "link": "/dashboard/image-to-video/create"
+        "link": "/dashboard/video/ai-effects"
       },
       "imageLeft": false
     },
@@ -1012,8 +1008,8 @@
         }
       ],
       "button": {
-        "text": "Create Art",
-        "link": "/dashboard/image-to-video/create"
+        "text": "Create Image to Animation",
+        "link": "/dashboard/video/ai-motion"
       },
       "imageLeft": true
     }
@@ -1376,7 +1372,7 @@
       "subHeading": "Aspire Today!",
       "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
       "buttonContent": "Start Creating for Free",
-      "buttonUrl": "/dashboard/text-to-image/create",
+      "buttonUrl": "/dashboard/video/ai-motion",
       "social": false,
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"

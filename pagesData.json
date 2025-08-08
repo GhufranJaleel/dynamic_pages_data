@@ -28,7 +28,7 @@
       "description": "Unleash your creativity and transform your text and images into engaging AI generated videos in just minutes. Whether you need text to video AI or an easy way to animate your visuals, Aspire AI is the ultimate video AI generator for content creators, marketers, and storytellers. With our AI video maker, you can effortlessly create high quality videos without the need for complex video editing skills.",
       "button": {
         "text": "Generate Video Free",
-        "link": "/dashboard/text-to-image/create"
+        "link": "/dashboard/video/ai-magic"
       },
       "isVideo":"true",
       "video": "https://raw.githubusercontent.com/GhufranJaleel/dynamic_pages_data/main/features/Text%20to%20video/3.mp4",
@@ -1041,7 +1041,7 @@
       ],
       "button": {
         "text": "Create Transition Now",
-        "link": "/dashboard/image-to-video/create"
+        "link": "/dashboard/video/ai-magic"
       },
       "imageLeft": false
     },
@@ -1065,8 +1065,8 @@
         }
       ],
       "button": {
-        "text": "Create Art",
-        "link": "/dashboard/image-to-video/create"
+        "text": "Create Your Promotional Video",
+        "link": "/dashboard/video/ai-magic"
       },
       "imageLeft": true
     },

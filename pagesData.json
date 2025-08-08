@@ -874,7 +874,7 @@
         }
       ],
       "button": {
-        "text": "Create Art",
+        "text": "Generate AI videos",
         "link": "/dashboard/image-to-video/create"
       },
       "imageLeft": true
@@ -899,7 +899,7 @@
         }
       ],
       "button": {
-        "text": "Illustrate Now",
+        "text": "Turn Images into Video",
         "link": "/dashboard/text-to-image/create"
       },
       "imageLeft": false
@@ -924,7 +924,7 @@
         }
       ],
       "button": {
-        "text": "Create Featured Image",
+        "text": "Animate Photos to Story",
         "link": "/dashboard/image-to-video/create"
       },
       "imageLeft": true
@@ -949,7 +949,7 @@
         }
       ],
       "button": {
-        "text": "Design Now",
+        "text": "Bring Memories to life",
         "link": "/dashboard/text-to-image/create"
       },
       "imageLeft": false
@@ -1366,7 +1366,7 @@
       "subHeading": "Aspire Today!",
       "description": "Ready to bring your ideas to life? Aspire AI’s Text to Image Tool is the perfect solution for creating high quality, AI generated images in seconds.",
       "buttonContent": "Start Creating for Free",
-      "buttonUrl": "/dashboard/text-to-image/create",
+      "buttonUrl": "/dashboard/image-to-video/create",
       "social": false,
       "button": true,
       "image": "/img/landing/Featured/imagine3.webp"
